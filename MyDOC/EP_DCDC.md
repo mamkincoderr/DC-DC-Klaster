@@ -322,7 +322,7 @@ $$ {\huge \varphi > \dfrac{\pi (1-d)}{2} } ,~(1.7)$$
 
 **Таблица 2.1 — Сравнение кандидатов, сторона ВВ (650 В)**
 
-| Параметр | SPP20N60C3 | CRJT99N65G2 | JCS20N65FH | NCE65TF099 | NCE65T180 |
+| Параметр | [SPP20N60C3](../PDF/SPP20N60C3.pdf) | [CRJT99N65G2](../PDF/CRJT99N65G2.pdf) | [JCS20N65FH](../PDF/JCS20N65FH.pdf) | [NCE65TF099](../PDF/NCE65TF099.pdf) | [NCE65T180](../PDF/NCE65T180.pdf) |
 |:--|:--|:--|:--|:--|:--|
 | Технология | CoolMOS C3 | Super Junction | планарная | Super Junction | Super Junction |
 | Корпус | TO-220 | TO-220 | TO-220MF (изолир.) | TO-220 | TO-220 |
@@ -339,7 +339,7 @@ $$ {\huge \varphi > \dfrac{\pi (1-d)}{2} } ,~(1.7)$$
 
 **Таблица 2.2 — Сравнение кандидатов, сторона НВ (80…100 В)**
 
-| Параметр | AONR62818 | CSD19503KCS | AON6226 | CRSM038N10N4 |
+| Параметр | [AONR62818](../PDF/AONR62818.pdf) | [CSD19503KCS](../PDF/CSD19503KCS.pdf) | [AON6226](../PDF/AON6226.pdf) | [CRSM038N10N4](../PDF/CRSM038N10N4.pdf) |
 |:--|:--|:--|:--|:--|
 | VDS | 80 В | 80 В | 100 В | 100 В |
 | Корпус | DFN 3.3×3.3 | TO-220 | DFN 5×6 | DFN 5×6 clip |
