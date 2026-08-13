@@ -1,0 +1,13 @@
+# Крупные архивы-бэкапы / установочные пакеты — не документация проекта
+QSpice03082026.zip
+G431_dcdc.rar
+History/
+
+# Служебные/кеш-каталоги инструментов
+.ltspice-mcp/
+graphify-out/
+
+# ОС-мусор
+Thumbs.db
+.DS_Store
+desktop.ini
