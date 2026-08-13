@@ -48,23 +48,23 @@
      y1="748.84674"
      x2="1297.9116"
      y2="748.84674"
-     stroke-width="1.79176"
+     stroke-width="2.4"
      id="line78-22-6-2"
-     style="fill:none;stroke:#000000;stroke-width:1.28984;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" />
+     style="fill:none;stroke:#000000;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" />
   <line
      x1="1123.9583"
      y1="830.07483"
      x2="1438.7201"
      y2="830.07483"
-     stroke-width="1.79176"
+     stroke-width="2.4"
      id="line78-22-6-8"
-     style="fill:none;stroke:#000000;stroke-width:2.30218;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" />
+     style="fill:none;stroke:#000000;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" />
   <line
      x1="621.82654"
      y1="424.22296"
      x2="740.02112"
      y2="424.22296"
-     stroke-width="1.29228"
+     stroke-width="2.4"
      id="line42-1-5"
      style="fill:none;stroke:#000000;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" />
   <line
@@ -72,7 +72,7 @@
      y1="270.13959"
      x2="622.13245"
      y2="270.13959"
-     stroke-width="1.29228"
+     stroke-width="2.4"
      id="line42-1"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.4;stroke-dasharray:none" />
   <line
@@ -80,7 +80,7 @@
      y1="269.78107"
      x2="740.01263"
      y2="343.89575"
-     stroke-width="1.8766"
+     stroke-width="2.4"
      id="line40-8-1"
      style="fill:none;stroke:#000000;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" />
   <line
@@ -88,7 +88,7 @@
      y1="271.80261"
      x2="622.02155"
      y2="424.02524"
-     stroke-width="1.8766"
+     stroke-width="2.4"
      id="line40-8-1-7"
      style="fill:none;stroke:#000000;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" />
   <line
@@ -96,7 +96,7 @@
      y1="70"
      x2="440"
      y2="70"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line1"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <line
@@ -104,7 +104,7 @@
      y1="410"
      x2="440"
      y2="410"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line2"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <circle
@@ -112,7 +112,7 @@
      cy="70"
      r="6"
      fill="#ffffff"
-     stroke-width="2"
+     stroke-width="2.4"
      id="circle2"
      style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <circle
@@ -120,7 +120,7 @@
      cy="410"
      r="6"
      fill="#ffffff"
-     stroke-width="2"
+     stroke-width="2.4"
      id="circle3"
      style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <text
@@ -164,7 +164,7 @@
      y1="70"
      x2="200"
      y2="234.5"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line6"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <line
@@ -172,7 +172,7 @@
      y1="245.5"
      x2="200"
      y2="410"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line7"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <circle
@@ -222,7 +222,7 @@
      y1="189.7762"
      x2="738.87067"
      y2="189.7762"
-     stroke-width="3.13067"
+     stroke-width="2.4"
      id="line9-5"
      style="fill:none;stroke:#000000;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0" />
   <polygon
@@ -254,7 +254,7 @@
      y1="128"
      x2="280"
      y2="128"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line10"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <line
@@ -336,7 +336,7 @@
      y1="324"
      x2="280"
      y2="324"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line16"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <line
@@ -410,7 +410,7 @@
      y1="70"
      x2="300"
      y2="94"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line22"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <line
@@ -418,7 +418,7 @@
      y1="162"
      x2="300"
      y2="290"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line23"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <line
@@ -426,7 +426,7 @@
      y1="358"
      x2="300"
      y2="410"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line24"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <circle
@@ -442,7 +442,7 @@
      y1="128"
      x2="420"
      y2="128"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line25"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <line
@@ -524,7 +524,7 @@
      y1="324"
      x2="420"
      y2="324"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line31"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <line
@@ -598,7 +598,7 @@
      y1="70"
      x2="440"
      y2="94"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line37"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <line
@@ -606,7 +606,7 @@
      y1="162"
      x2="440"
      y2="290"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line38"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <line
@@ -614,7 +614,7 @@
      y1="358"
      x2="440"
      y2="410"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line39"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <path
@@ -636,7 +636,7 @@
      y1="188.13148"
      x2="760"
      y2="273.72723"
-     stroke-width="1.8766"
+     stroke-width="2.4"
      id="line40"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <path
@@ -656,7 +656,7 @@
      y1="342.22961"
      x2="760.61316"
      y2="427.82538"
-     stroke-width="1.8766"
+     stroke-width="2.4"
      id="line40-8"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <path
@@ -690,7 +690,7 @@
      y1="189.66014"
      x2="626.26196"
      y2="189.66014"
-     stroke-width="1.72"
+     stroke-width="2.4"
      id="line42"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <circle
@@ -732,7 +732,7 @@
      y1="128"
      x2="1280"
      y2="128"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line48"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <line
@@ -814,7 +814,7 @@
      y1="324"
      x2="1280"
      y2="324"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line54"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <line
@@ -888,7 +888,7 @@
      y1="70"
      x2="1300"
      y2="94"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line60"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <line
@@ -896,7 +896,7 @@
      y1="162"
      x2="1300"
      y2="290"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line61"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <line
@@ -904,7 +904,7 @@
      y1="358"
      x2="1300"
      y2="410"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line62"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <circle
@@ -920,7 +920,7 @@
      y1="128"
      x2="1420"
      y2="128"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line63"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <line
@@ -1002,7 +1002,7 @@
      y1="324"
      x2="1420"
      y2="324"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line69"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <line
@@ -1076,7 +1076,7 @@
      y1="70"
      x2="1440"
      y2="94"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line75"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <line
@@ -1084,7 +1084,7 @@
      y1="162"
      x2="1440"
      y2="290"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line76"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <line
@@ -1092,15 +1092,15 @@
      y1="346.82553"
      x2="1198.4448"
      y2="748.28632"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line76-5"
-     style="fill:none;stroke:#000000;stroke-width:2.40916;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" />
+     style="fill:none;stroke:#000000;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" />
   <line
      x1="1123.9869"
      y1="423.91501"
      x2="1123.9869"
      y2="829.52362"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line76-5-6"
      style="fill:none;stroke:#000000;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" />
   <line
@@ -1108,7 +1108,7 @@
      y1="358"
      x2="1440"
      y2="410"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line77"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <line
@@ -1116,7 +1116,7 @@
      y1="190"
      x2="1300"
      y2="190"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line78"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <line
@@ -1124,7 +1124,7 @@
      y1="344.27887"
      x2="1198.3073"
      y2="344.27887"
-     stroke-width="1.79176"
+     stroke-width="2.4"
      id="line78-22"
      style="fill:none;stroke:#000000;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" />
   <line
@@ -1132,7 +1132,7 @@
      y1="423.90512"
      x2="1123.0117"
      y2="423.90512"
-     stroke-width="1.79176"
+     stroke-width="2.4"
      id="line78-22-6"
      style="fill:none;stroke:#000000;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" />
   <line
@@ -1140,7 +1140,7 @@
      y1="270.16309"
      x2="1439.1614"
      y2="270.16309"
-     stroke-width="2.24969"
+     stroke-width="2.4"
      id="line78-2"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.4;stroke-dasharray:none" />
   <circle
@@ -1172,7 +1172,7 @@
      y1="688"
      x2="1280"
      y2="688"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line82"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <line
@@ -1254,7 +1254,7 @@
      y1="884"
      x2="1280"
      y2="884"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line88"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <line
@@ -1328,7 +1328,7 @@
      y1="630"
      x2="1300"
      y2="654"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line94"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <line
@@ -1336,7 +1336,7 @@
      y1="722"
      x2="1300"
      y2="850"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line95"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <line
@@ -1344,7 +1344,7 @@
      y1="918"
      x2="1300"
      y2="970"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line96"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <circle
@@ -1360,7 +1360,7 @@
      y1="688"
      x2="1420"
      y2="688"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line97"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <line
@@ -1442,7 +1442,7 @@
      y1="884"
      x2="1420"
      y2="884"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line103"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <line
@@ -1516,7 +1516,7 @@
      y1="630"
      x2="1440"
      y2="654"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line109"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <line
@@ -1524,7 +1524,7 @@
      y1="722"
      x2="1440"
      y2="850"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line110"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <line
@@ -1532,7 +1532,7 @@
      y1="918"
      x2="1440"
      y2="970"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line111"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <circle
@@ -1576,7 +1576,7 @@
      y1="70"
      x2="1600"
      y2="70"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line115"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <circle
@@ -1592,7 +1592,7 @@
      y1="410"
      x2="1660"
      y2="410"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line116"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <circle
@@ -1608,7 +1608,7 @@
      y1="630"
      x2="1600"
      y2="630"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line118"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <circle
@@ -1646,7 +1646,7 @@
      y1="970"
      x2="1660"
      y2="970"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line122"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <circle
@@ -1678,7 +1678,7 @@
      y1="70"
      x2="1520"
      y2="234.5"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line125"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <line
@@ -1686,7 +1686,7 @@
      y1="245.5"
      x2="1520"
      y2="410"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line126"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <circle
@@ -1744,7 +1744,7 @@
      y1="630"
      x2="1520"
      y2="794.5"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line129"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <line
@@ -1752,7 +1752,7 @@
      y1="805.5"
      x2="1520"
      y2="970"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line130"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <circle
@@ -1786,7 +1786,7 @@
      y1="70"
      x2="1600"
      y2="630"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line131"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <line
@@ -1794,7 +1794,7 @@
      y1="410"
      x2="1660"
      y2="970"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line132"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <circle
@@ -1843,7 +1843,7 @@
      y1="69.987724"
      x2="1750.6005"
      y2="69.987724"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line135"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <circle
@@ -1851,7 +1851,7 @@
      cy="70"
      r="6"
      fill="#ffffff"
-     stroke-width="2"
+     stroke-width="2.4"
      id="circle135"
      style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <text
@@ -1869,7 +1869,7 @@
      y1="970"
      x2="1750"
      y2="970"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line136"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <circle
@@ -1877,7 +1877,7 @@
      cy="970"
      r="6"
      fill="#ffffff"
-     stroke-width="2"
+     stroke-width="2.4"
      id="circle136"
      style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <text
@@ -1934,7 +1934,7 @@
      y1="544.37909"
      x2="362.9368"
      y2="465.93021"
-     stroke-width="1.32774"
+     stroke-width="2.4"
      id="line139"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <polygon
@@ -1949,7 +1949,7 @@
      y1="477.47177"
      x2="1366.7361"
      y2="374.3197"
-     stroke-width="1.52251"
+     stroke-width="2.4"
      id="line139-2"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <polygon
@@ -1965,7 +1965,7 @@
      width="213.101"
      height="74.372162"
      fill="#ffffff"
-     stroke-width="2.02784"
+     stroke-width="2.4"
      id="rect139"
      style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <text
@@ -2064,7 +2064,7 @@
      y1="651.99414"
      x2="830.78748"
      y2="711.99414"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line166"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <polygon
@@ -2115,7 +2115,7 @@
      y1="815.99414"
      x2="830.78748"
      y2="871.99414"
-     stroke-width="2"
+     stroke-width="2.4"
      id="line169"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <polygon
@@ -2175,7 +2175,7 @@
      y1="583.82819"
      x2="505.07968"
      y2="583.82819"
-     stroke-width="2.09181"
+     stroke-width="2.4"
      id="line139-9"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.4;stroke-dasharray:none" />
   <polygon
@@ -2197,7 +2197,7 @@
      y1="582.8551"
      x2="961.48877"
      y2="582.8551"
-     stroke-width="2.09181"
+     stroke-width="2.4"
      id="line139-9-3"
      style="fill:none;stroke:#000000;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" />
   <line
@@ -2205,7 +2205,7 @@
      y1="516.13049"
      x2="1253.9723"
      y2="516.13049"
-     stroke-width="2.09181"
+     stroke-width="2.4"
      id="line139-9-2"
      style="fill:none;stroke:#000000;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" />
   <line
@@ -2213,7 +2213,7 @@
      y1="516.92645"
      x2="1254.0145"
      y2="582.38147"
-     stroke-width="2.09181"
+     stroke-width="2.4"
      id="line139-9-34"
      style="fill:none;stroke:#000000;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" />
   <line
@@ -2221,7 +2221,7 @@
      y1="553.63977"
      x2="1367.8345"
      y2="682.53973"
-     stroke-width="1.70194"
+     stroke-width="2.4"
      id="line139-3"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
   <polygon
@@ -2237,7 +2237,7 @@
      width="258.95425"
      height="240.07799"
      fill="#ffffff"
-     stroke-width="3.44575"
+     stroke-width="2.4"
      id="rect161-8"
      style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.4;stroke-dasharray:none" />
 </svg>
