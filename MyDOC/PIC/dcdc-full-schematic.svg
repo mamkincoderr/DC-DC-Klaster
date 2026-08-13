@@ -1,0 +1,2243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1980 1200"
+   width="1980"
+   height="1200"
+   version="1.1"
+   id="svg193"
+   sodipodi:docname="dcdc-full-schematic1.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs193" />
+  <sodipodi:namedview
+     id="namedview193"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.47552931"
+     inkscape:cx="806.46974"
+     inkscape:cy="585.66316"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg193"
+     showguides="true">
+    <sodipodi:guide
+       position="739.89313,950.1394"
+       orientation="1,0"
+       id="guide193"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <title
+     id="title1">ДЦ-ДД-001 -- структурная схема</title>
+  <line
+     x1="1199.1068"
+     y1="748.84674"
+     x2="1297.9116"
+     y2="748.84674"
+     stroke-width="1.79176"
+     id="line78-22-6-2"
+     style="fill:none;stroke:#000000;stroke-width:1.28984;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" />
+  <line
+     x1="1123.9583"
+     y1="830.07483"
+     x2="1438.7201"
+     y2="830.07483"
+     stroke-width="1.79176"
+     id="line78-22-6-8"
+     style="fill:none;stroke:#000000;stroke-width:2.30218;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" />
+  <line
+     x1="621.82654"
+     y1="424.22296"
+     x2="740.02112"
+     y2="424.22296"
+     stroke-width="1.29228"
+     id="line42-1-5"
+     style="fill:none;stroke:#000000;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" />
+  <line
+     x1="438.43674"
+     y1="270.13959"
+     x2="622.13245"
+     y2="270.13959"
+     stroke-width="1.29228"
+     id="line42-1"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.4;stroke-dasharray:none" />
+  <line
+     x1="740.01263"
+     y1="269.78107"
+     x2="740.01263"
+     y2="343.89575"
+     stroke-width="1.8766"
+     id="line40-8-1"
+     style="fill:none;stroke:#000000;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" />
+  <line
+     x1="622.02155"
+     y1="271.80261"
+     x2="622.02155"
+     y2="424.02524"
+     stroke-width="1.8766"
+     id="line40-8-1-7"
+     style="fill:none;stroke:#000000;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" />
+  <line
+     x1="120"
+     y1="70"
+     x2="440"
+     y2="70"
+     stroke-width="2"
+     id="line1"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="120"
+     y1="410"
+     x2="440"
+     y2="410"
+     stroke-width="2"
+     id="line2"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <circle
+     cx="114"
+     cy="70"
+     r="6"
+     fill="#ffffff"
+     stroke-width="2"
+     id="circle2"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <circle
+     cx="114"
+     cy="410"
+     r="6"
+     fill="#ffffff"
+     stroke-width="2"
+     id="circle3"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     x="98"
+     y="54"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     text-anchor="end"
+     fill="#000000"
+     stroke="none"
+     id="text3"
+     style="stroke-linecap:round;stroke-linejoin:round">ВВ+</text>
+  <text
+     x="98"
+     y="436"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     text-anchor="end"
+     fill="#000000"
+     stroke="none"
+     id="text4"
+     style="stroke-linecap:round;stroke-linejoin:round">ВВ−</text>
+  <line
+     x1="174"
+     y1="234.5"
+     x2="226"
+     y2="234.5"
+     stroke-width="2.4"
+     id="line4"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="174"
+     y1="245.5"
+     x2="226"
+     y2="245.5"
+     stroke-width="2.4"
+     id="line5"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="200"
+     y1="70"
+     x2="200"
+     y2="234.5"
+     stroke-width="2"
+     id="line6"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="200"
+     y1="245.5"
+     x2="200"
+     y2="410"
+     stroke-width="2"
+     id="line7"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <circle
+     cx="200"
+     cy="70"
+     r="4.5"
+     fill="#000000"
+     stroke="none"
+     id="circle7"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <circle
+     cx="200"
+     cy="410"
+     r="4.5"
+     fill="#000000"
+     stroke="none"
+     id="circle8"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     x="232"
+     y="236"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     text-anchor="start"
+     fill="#000000"
+     stroke="none"
+     id="text8"
+     style="stroke-linecap:round;stroke-linejoin:round">C1</text>
+  <circle
+     cx="160"
+     cy="70"
+     r="15"
+     fill="#ffffff"
+     stroke-width="2.4"
+     id="circle9"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="149"
+     y1="70"
+     x2="167"
+     y2="70"
+     stroke-width="2.4"
+     id="line9"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="706.94946"
+     y1="189.7762"
+     x2="738.87067"
+     y2="189.7762"
+     stroke-width="3.13067"
+     id="line9-5"
+     style="fill:none;stroke:#000000;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0" />
+  <polygon
+     points="176,70 167,65 167,75 "
+     fill="#000000"
+     stroke="none"
+     id="polygon9"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     x="160"
+     y="47"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="12px"
+     text-anchor="middle"
+     fill="#000000"
+     stroke="none"
+     id="text9"
+     style="stroke-linecap:round;stroke-linejoin:round">ДТ1</text>
+  <circle
+     cx="292"
+     cy="128"
+     r="26"
+     fill="none"
+     stroke-width="2.4"
+     id="circle10"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="252"
+     y1="128"
+     x2="280"
+     y2="128"
+     stroke-width="2"
+     id="line10"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="280"
+     y1="114"
+     x2="280"
+     y2="142"
+     stroke-width="2.4"
+     id="line11"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="287"
+     y1="112"
+     x2="287"
+     y2="120"
+     stroke-width="2.4"
+     id="line12"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="287"
+     y1="124"
+     x2="287"
+     y2="132"
+     stroke-width="2.4"
+     id="line13"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="287"
+     y1="136"
+     x2="287"
+     y2="144"
+     stroke-width="2.4"
+     id="line14"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="287,116 300,116 300,94"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline14"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="287,140 300,140 300,162"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline15"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="287,128 300,128 300,140"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline16"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polygon
+     points="298,132.5 291,128 298,123.5 "
+     fill="#000000"
+     stroke="none"
+     id="polygon16"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     x="316"
+     y="100"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     text-anchor="start"
+     fill="#000000"
+     stroke="none"
+     id="text16"
+     style="stroke-linecap:round;stroke-linejoin:round">VT1</text>
+  <circle
+     cx="292"
+     cy="324"
+     r="26"
+     fill="none"
+     stroke-width="2.4"
+     id="circle16"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="252"
+     y1="324"
+     x2="280"
+     y2="324"
+     stroke-width="2"
+     id="line16"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="280"
+     y1="310"
+     x2="280"
+     y2="338"
+     stroke-width="2.4"
+     id="line17"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="287"
+     y1="308"
+     x2="287"
+     y2="316"
+     stroke-width="2.4"
+     id="line18"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="287"
+     y1="320"
+     x2="287"
+     y2="328"
+     stroke-width="2.4"
+     id="line19"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="287"
+     y1="332"
+     x2="287"
+     y2="340"
+     stroke-width="2.4"
+     id="line20"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="287,312 300,312 300,290"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline20"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="287,336 300,336 300,358"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline21"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="287,324 300,324 300,336"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline22"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polygon
+     points="298,328.5 291,324 298,319.5 "
+     fill="#000000"
+     stroke="none"
+     id="polygon22"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     x="316"
+     y="296"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     text-anchor="start"
+     fill="#000000"
+     stroke="none"
+     id="text22"
+     style="stroke-linecap:round;stroke-linejoin:round">VT2</text>
+  <line
+     x1="300"
+     y1="70"
+     x2="300"
+     y2="94"
+     stroke-width="2"
+     id="line22"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="300"
+     y1="162"
+     x2="300"
+     y2="290"
+     stroke-width="2"
+     id="line23"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="300"
+     y1="358"
+     x2="300"
+     y2="410"
+     stroke-width="2"
+     id="line24"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <circle
+     cx="432"
+     cy="128"
+     r="26"
+     fill="none"
+     stroke-width="2.4"
+     id="circle24"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="392"
+     y1="128"
+     x2="420"
+     y2="128"
+     stroke-width="2"
+     id="line25"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="420"
+     y1="114"
+     x2="420"
+     y2="142"
+     stroke-width="2.4"
+     id="line26"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="427"
+     y1="112"
+     x2="427"
+     y2="120"
+     stroke-width="2.4"
+     id="line27"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="427"
+     y1="124"
+     x2="427"
+     y2="132"
+     stroke-width="2.4"
+     id="line28"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="427"
+     y1="136"
+     x2="427"
+     y2="144"
+     stroke-width="2.4"
+     id="line29"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="427,116 440,116 440,94"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline29"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="427,140 440,140 440,162"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline30"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="427,128 440,128 440,140"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline31"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polygon
+     points="438,132.5 431,128 438,123.5 "
+     fill="#000000"
+     stroke="none"
+     id="polygon31"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     x="456"
+     y="100"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     text-anchor="start"
+     fill="#000000"
+     stroke="none"
+     id="text31"
+     style="stroke-linecap:round;stroke-linejoin:round">VT3</text>
+  <circle
+     cx="432"
+     cy="324"
+     r="26"
+     fill="none"
+     stroke-width="2.4"
+     id="circle31"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="392"
+     y1="324"
+     x2="420"
+     y2="324"
+     stroke-width="2"
+     id="line31"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="420"
+     y1="310"
+     x2="420"
+     y2="338"
+     stroke-width="2.4"
+     id="line32"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="427"
+     y1="308"
+     x2="427"
+     y2="316"
+     stroke-width="2.4"
+     id="line33"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="427"
+     y1="320"
+     x2="427"
+     y2="328"
+     stroke-width="2.4"
+     id="line34"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="427"
+     y1="332"
+     x2="427"
+     y2="340"
+     stroke-width="2.4"
+     id="line35"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="427,312 440,312 440,290"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline35"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="427,336 440,336 440,358"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline36"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="427,324 440,324 440,336"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline37"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polygon
+     points="438,328.5 431,324 438,319.5 "
+     fill="#000000"
+     stroke="none"
+     id="polygon37"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     x="456"
+     y="296"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     text-anchor="start"
+     fill="#000000"
+     stroke="none"
+     id="text37"
+     style="stroke-linecap:round;stroke-linejoin:round">VT4</text>
+  <line
+     x1="440"
+     y1="70"
+     x2="440"
+     y2="94"
+     stroke-width="2"
+     id="line37"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="440"
+     y1="162"
+     x2="440"
+     y2="290"
+     stroke-width="2"
+     id="line38"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="440"
+     y1="358"
+     x2="440"
+     y2="410"
+     stroke-width="2"
+     id="line39"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     d="m 740,190 a 10,10 0 0 1 0,20 10,10 0 0 1 0,20 10,10 0 0 1 0,20 10,10 0 0 1 0,20"
+     stroke-width="2.4"
+     fill="none"
+     id="path39"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     d="m 626.57728,189.83372 a 10,10 0 0 1 20,0 10,10 0 0 1 20,0 10,10 0 0 1 20,0 10,10 0 0 1 20,0"
+     stroke-width="2.4"
+     fill="none"
+     id="path39-9"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round"
+     inkscape:transform-center-x="4.7315695"
+     inkscape:transform-center-y="67.293431" />
+  <line
+     x1="760"
+     y1="188.13148"
+     x2="760"
+     y2="273.72723"
+     stroke-width="1.8766"
+     id="line40"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     d="m 780,190 a 10,10 0 0 0 0,20 10,10 0 0 0 0,20 10,10 0 0 0 0,20 10,10 0 0 0 0,20"
+     stroke-width="2.4"
+     fill="none"
+     id="path40"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     d="m 740.61315,344.09812 a 10,10 0 0 1 0,20 10,10 0 0 1 0,20 10,10 0 0 1 0,20 10,10 0 0 1 0,20"
+     stroke-width="2.4"
+     fill="none"
+     id="path39-8"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="760.61316"
+     y1="342.22961"
+     x2="760.61316"
+     y2="427.82538"
+     stroke-width="1.8766"
+     id="line40-8"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+     d="m 780.61315,344.09812 a 10,10 0 0 0 0,20 10,10 0 0 0 0,20 10,10 0 0 0 0,20 10,10 0 0 0 0,20"
+     stroke-width="2.4"
+     fill="none"
+     id="path40-2"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     x="760"
+     y="175.64124"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     text-anchor="middle"
+     fill="#000000"
+     stroke="none"
+     id="text40"
+     style="stroke-linecap:round;stroke-linejoin:round">T1</text>
+  <text
+     x="762.15613"
+     y="318.56506"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     text-anchor="middle"
+     fill="#000000"
+     stroke="none"
+     id="text42"
+     style="stroke-linecap:round;stroke-linejoin:round">T2</text>
+  <line
+     x1="300.84256"
+     y1="189.66014"
+     x2="626.26196"
+     y2="189.66014"
+     stroke-width="1.72"
+     id="line42"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <circle
+     cx="300"
+     cy="190"
+     r="4.5"
+     fill="#000000"
+     stroke="none"
+     id="circle42"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <circle
+     cx="440"
+     cy="270"
+     r="4.5"
+     fill="#000000"
+     stroke="none"
+     id="circle47"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     x="862.60223"
+     y="70.884758"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="13px"
+     text-anchor="middle"
+     fill="#000000"
+     stroke="none"
+     id="text47"
+     style="stroke-linecap:round;stroke-linejoin:round">первичные обмотки T1, T2 включены последовательно</text>
+  <circle
+     cx="1292"
+     cy="128"
+     r="26"
+     fill="none"
+     stroke-width="2.4"
+     id="circle48"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1252"
+     y1="128"
+     x2="1280"
+     y2="128"
+     stroke-width="2"
+     id="line48"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1280"
+     y1="114"
+     x2="1280"
+     y2="142"
+     stroke-width="2.4"
+     id="line49"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1287"
+     y1="112"
+     x2="1287"
+     y2="120"
+     stroke-width="2.4"
+     id="line50"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1287"
+     y1="124"
+     x2="1287"
+     y2="132"
+     stroke-width="2.4"
+     id="line51"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1287"
+     y1="136"
+     x2="1287"
+     y2="144"
+     stroke-width="2.4"
+     id="line52"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="1287,116 1300,116 1300,94"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline52"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="1287,140 1300,140 1300,162"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline53"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="1287,128 1300,128 1300,140"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline54"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polygon
+     points="1298,132.5 1291,128 1298,123.5 "
+     fill="#000000"
+     stroke="none"
+     id="polygon54"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     x="1316"
+     y="100"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     text-anchor="start"
+     fill="#000000"
+     stroke="none"
+     id="text54"
+     style="stroke-linecap:round;stroke-linejoin:round">VT5</text>
+  <circle
+     cx="1292"
+     cy="324"
+     r="26"
+     fill="none"
+     stroke-width="2.4"
+     id="circle54"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1252"
+     y1="324"
+     x2="1280"
+     y2="324"
+     stroke-width="2"
+     id="line54"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1280"
+     y1="310"
+     x2="1280"
+     y2="338"
+     stroke-width="2.4"
+     id="line55"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1287"
+     y1="308"
+     x2="1287"
+     y2="316"
+     stroke-width="2.4"
+     id="line56"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1287"
+     y1="320"
+     x2="1287"
+     y2="328"
+     stroke-width="2.4"
+     id="line57"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1287"
+     y1="332"
+     x2="1287"
+     y2="340"
+     stroke-width="2.4"
+     id="line58"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="1287,312 1300,312 1300,290"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline58"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="1287,336 1300,336 1300,358"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline59"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="1287,324 1300,324 1300,336"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline60"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polygon
+     points="1298,328.5 1291,324 1298,319.5 "
+     fill="#000000"
+     stroke="none"
+     id="polygon60"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     x="1316"
+     y="296"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     text-anchor="start"
+     fill="#000000"
+     stroke="none"
+     id="text60"
+     style="stroke-linecap:round;stroke-linejoin:round">VT6</text>
+  <line
+     x1="1300"
+     y1="70"
+     x2="1300"
+     y2="94"
+     stroke-width="2"
+     id="line60"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1300"
+     y1="162"
+     x2="1300"
+     y2="290"
+     stroke-width="2"
+     id="line61"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1300"
+     y1="358"
+     x2="1300"
+     y2="410"
+     stroke-width="2"
+     id="line62"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <circle
+     cx="1432"
+     cy="128"
+     r="26"
+     fill="none"
+     stroke-width="2.4"
+     id="circle62"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1392"
+     y1="128"
+     x2="1420"
+     y2="128"
+     stroke-width="2"
+     id="line63"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1420"
+     y1="114"
+     x2="1420"
+     y2="142"
+     stroke-width="2.4"
+     id="line64"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1427"
+     y1="112"
+     x2="1427"
+     y2="120"
+     stroke-width="2.4"
+     id="line65"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1427"
+     y1="124"
+     x2="1427"
+     y2="132"
+     stroke-width="2.4"
+     id="line66"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1427"
+     y1="136"
+     x2="1427"
+     y2="144"
+     stroke-width="2.4"
+     id="line67"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="1427,116 1440,116 1440,94"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline67"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="1427,140 1440,140 1440,162"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline68"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="1427,128 1440,128 1440,140"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline69"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polygon
+     points="1438,132.5 1431,128 1438,123.5 "
+     fill="#000000"
+     stroke="none"
+     id="polygon69"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     x="1456"
+     y="100"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     text-anchor="start"
+     fill="#000000"
+     stroke="none"
+     id="text69"
+     style="stroke-linecap:round;stroke-linejoin:round">VT7</text>
+  <circle
+     cx="1432"
+     cy="324"
+     r="26"
+     fill="none"
+     stroke-width="2.4"
+     id="circle69"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1392"
+     y1="324"
+     x2="1420"
+     y2="324"
+     stroke-width="2"
+     id="line69"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1420"
+     y1="310"
+     x2="1420"
+     y2="338"
+     stroke-width="2.4"
+     id="line70"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1427"
+     y1="308"
+     x2="1427"
+     y2="316"
+     stroke-width="2.4"
+     id="line71"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1427"
+     y1="320"
+     x2="1427"
+     y2="328"
+     stroke-width="2.4"
+     id="line72"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1427"
+     y1="332"
+     x2="1427"
+     y2="340"
+     stroke-width="2.4"
+     id="line73"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="1427,312 1440,312 1440,290"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline73"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="1427,336 1440,336 1440,358"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline74"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="1427,324 1440,324 1440,336"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline75"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polygon
+     points="1438,328.5 1431,324 1438,319.5 "
+     fill="#000000"
+     stroke="none"
+     id="polygon75"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     x="1456"
+     y="296"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     text-anchor="start"
+     fill="#000000"
+     stroke="none"
+     id="text75"
+     style="stroke-linecap:round;stroke-linejoin:round">VT8</text>
+  <line
+     x1="1440"
+     y1="70"
+     x2="1440"
+     y2="94"
+     stroke-width="2"
+     id="line75"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1440"
+     y1="162"
+     x2="1440"
+     y2="290"
+     stroke-width="2"
+     id="line76"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1198.4448"
+     y1="346.82553"
+     x2="1198.4448"
+     y2="748.28632"
+     stroke-width="2"
+     id="line76-5"
+     style="fill:none;stroke:#000000;stroke-width:2.40916;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" />
+  <line
+     x1="1123.9869"
+     y1="423.91501"
+     x2="1123.9869"
+     y2="829.52362"
+     stroke-width="2"
+     id="line76-5-6"
+     style="fill:none;stroke:#000000;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" />
+  <line
+     x1="1440"
+     y1="358"
+     x2="1440"
+     y2="410"
+     stroke-width="2"
+     id="line77"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="780"
+     y1="190"
+     x2="1300"
+     y2="190"
+     stroke-width="2"
+     id="line78"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="780.95563"
+     y1="344.27887"
+     x2="1198.3073"
+     y2="344.27887"
+     stroke-width="1.79176"
+     id="line78-22"
+     style="fill:none;stroke:#000000;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" />
+  <line
+     x1="780.93225"
+     y1="423.90512"
+     x2="1123.0117"
+     y2="423.90512"
+     stroke-width="1.79176"
+     id="line78-22-6"
+     style="fill:none;stroke:#000000;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" />
+  <line
+     x1="781.21619"
+     y1="270.16309"
+     x2="1439.1614"
+     y2="270.16309"
+     stroke-width="2.24969"
+     id="line78-2"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.4;stroke-dasharray:none" />
+  <circle
+     cx="1300"
+     cy="190"
+     r="4.5"
+     fill="#000000"
+     stroke="none"
+     id="circle79"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <circle
+     cx="1440"
+     cy="270"
+     r="4.5"
+     fill="#000000"
+     stroke="none"
+     id="circle81"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <circle
+     cx="1292"
+     cy="688"
+     r="26"
+     fill="none"
+     stroke-width="2.4"
+     id="circle82"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1252"
+     y1="688"
+     x2="1280"
+     y2="688"
+     stroke-width="2"
+     id="line82"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1280"
+     y1="674"
+     x2="1280"
+     y2="702"
+     stroke-width="2.4"
+     id="line83"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1287"
+     y1="672"
+     x2="1287"
+     y2="680"
+     stroke-width="2.4"
+     id="line84"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1287"
+     y1="684"
+     x2="1287"
+     y2="692"
+     stroke-width="2.4"
+     id="line85"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1287"
+     y1="696"
+     x2="1287"
+     y2="704"
+     stroke-width="2.4"
+     id="line86"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="1287,676 1300,676 1300,654"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline86"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="1287,700 1300,700 1300,722"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline87"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="1287,688 1300,688 1300,700"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline88"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polygon
+     points="1298,692.5 1291,688 1298,683.5 "
+     fill="#000000"
+     stroke="none"
+     id="polygon88"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     x="1316"
+     y="660"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     text-anchor="start"
+     fill="#000000"
+     stroke="none"
+     id="text88"
+     style="stroke-linecap:round;stroke-linejoin:round">VT9</text>
+  <circle
+     cx="1292"
+     cy="884"
+     r="26"
+     fill="none"
+     stroke-width="2.4"
+     id="circle88"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1252"
+     y1="884"
+     x2="1280"
+     y2="884"
+     stroke-width="2"
+     id="line88"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1280"
+     y1="870"
+     x2="1280"
+     y2="898"
+     stroke-width="2.4"
+     id="line89"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1287"
+     y1="868"
+     x2="1287"
+     y2="876"
+     stroke-width="2.4"
+     id="line90"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1287"
+     y1="880"
+     x2="1287"
+     y2="888"
+     stroke-width="2.4"
+     id="line91"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1287"
+     y1="892"
+     x2="1287"
+     y2="900"
+     stroke-width="2.4"
+     id="line92"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="1287,872 1300,872 1300,850"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline92"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="1287,896 1300,896 1300,918"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline93"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="1287,884 1300,884 1300,896"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline94"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polygon
+     points="1298,888.5 1291,884 1298,879.5 "
+     fill="#000000"
+     stroke="none"
+     id="polygon94"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     x="1316"
+     y="856"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     text-anchor="start"
+     fill="#000000"
+     stroke="none"
+     id="text94"
+     style="stroke-linecap:round;stroke-linejoin:round">VT10</text>
+  <line
+     x1="1300"
+     y1="630"
+     x2="1300"
+     y2="654"
+     stroke-width="2"
+     id="line94"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1300"
+     y1="722"
+     x2="1300"
+     y2="850"
+     stroke-width="2"
+     id="line95"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1300"
+     y1="918"
+     x2="1300"
+     y2="970"
+     stroke-width="2"
+     id="line96"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <circle
+     cx="1432"
+     cy="688"
+     r="26"
+     fill="none"
+     stroke-width="2.4"
+     id="circle96"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1392"
+     y1="688"
+     x2="1420"
+     y2="688"
+     stroke-width="2"
+     id="line97"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1420"
+     y1="674"
+     x2="1420"
+     y2="702"
+     stroke-width="2.4"
+     id="line98"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1427"
+     y1="672"
+     x2="1427"
+     y2="680"
+     stroke-width="2.4"
+     id="line99"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1427"
+     y1="684"
+     x2="1427"
+     y2="692"
+     stroke-width="2.4"
+     id="line100"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1427"
+     y1="696"
+     x2="1427"
+     y2="704"
+     stroke-width="2.4"
+     id="line101"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="1427,676 1440,676 1440,654"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline101"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="1427,700 1440,700 1440,722"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline102"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="1427,688 1440,688 1440,700"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline103"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polygon
+     points="1438,692.5 1431,688 1438,683.5 "
+     fill="#000000"
+     stroke="none"
+     id="polygon103"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     x="1456"
+     y="660"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     text-anchor="start"
+     fill="#000000"
+     stroke="none"
+     id="text103"
+     style="stroke-linecap:round;stroke-linejoin:round">VT11</text>
+  <circle
+     cx="1432"
+     cy="884"
+     r="26"
+     fill="none"
+     stroke-width="2.4"
+     id="circle103"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1392"
+     y1="884"
+     x2="1420"
+     y2="884"
+     stroke-width="2"
+     id="line103"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1420"
+     y1="870"
+     x2="1420"
+     y2="898"
+     stroke-width="2.4"
+     id="line104"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1427"
+     y1="868"
+     x2="1427"
+     y2="876"
+     stroke-width="2.4"
+     id="line105"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1427"
+     y1="880"
+     x2="1427"
+     y2="888"
+     stroke-width="2.4"
+     id="line106"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1427"
+     y1="892"
+     x2="1427"
+     y2="900"
+     stroke-width="2.4"
+     id="line107"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="1427,872 1440,872 1440,850"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline107"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="1427,896 1440,896 1440,918"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline108"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polyline
+     points="1427,884 1440,884 1440,896"
+     stroke-width="2.4"
+     fill="none"
+     id="polyline109"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polygon
+     points="1438,888.5 1431,884 1438,879.5 "
+     fill="#000000"
+     stroke="none"
+     id="polygon109"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     x="1456"
+     y="856"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     text-anchor="start"
+     fill="#000000"
+     stroke="none"
+     id="text109"
+     style="stroke-linecap:round;stroke-linejoin:round">VT12</text>
+  <line
+     x1="1440"
+     y1="630"
+     x2="1440"
+     y2="654"
+     stroke-width="2"
+     id="line109"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1440"
+     y1="722"
+     x2="1440"
+     y2="850"
+     stroke-width="2"
+     id="line110"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1440"
+     y1="918"
+     x2="1440"
+     y2="970"
+     stroke-width="2"
+     id="line111"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <circle
+     cx="1300"
+     cy="750"
+     r="4.5"
+     fill="#000000"
+     stroke="none"
+     id="circle112"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <circle
+     cx="1440"
+     cy="830"
+     r="4.5"
+     fill="#000000"
+     stroke="none"
+     id="circle114"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     x="1370.5001"
+     y="799.7204"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="13px"
+     text-anchor="middle"
+     fill="#000000"
+     stroke="none"
+     id="text114"
+     style="stroke-linecap:round;stroke-linejoin:round">мост НВ №2 (от T2)</text>
+  <text
+     x="1370"
+     y="231.07806"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="13px"
+     text-anchor="middle"
+     fill="#000000"
+     stroke="none"
+     id="text115"
+     style="stroke-linecap:round;stroke-linejoin:round">мост НВ №1 (от T1)</text>
+  <line
+     x1="1300"
+     y1="70"
+     x2="1600"
+     y2="70"
+     stroke-width="2"
+     id="line115"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <circle
+     cx="1440"
+     cy="70"
+     r="4.5"
+     fill="#000000"
+     stroke="none"
+     id="circle116"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1300"
+     y1="410"
+     x2="1660"
+     y2="410"
+     stroke-width="2"
+     id="line116"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <circle
+     cx="1440"
+     cy="410"
+     r="4.5"
+     fill="#000000"
+     stroke="none"
+     id="circle118"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1300"
+     y1="630"
+     x2="1600"
+     y2="630"
+     stroke-width="2"
+     id="line118"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <circle
+     cx="1440"
+     cy="630"
+     r="4.5"
+     fill="#000000"
+     stroke="none"
+     id="circle120"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <circle
+     cx="1550"
+     cy="630"
+     r="15"
+     fill="#ffffff"
+     stroke-width="2.4"
+     id="circle121"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1539"
+     y1="630"
+     x2="1557"
+     y2="630"
+     stroke-width="2.4"
+     id="line121"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polygon
+     points="1566,630 1557,625 1557,635 "
+     fill="#000000"
+     stroke="none"
+     id="polygon121"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1300"
+     y1="970"
+     x2="1660"
+     y2="970"
+     stroke-width="2"
+     id="line122"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <circle
+     cx="1440"
+     cy="970"
+     r="4.5"
+     fill="#000000"
+     stroke="none"
+     id="circle123"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1494"
+     y1="234.5"
+     x2="1546"
+     y2="234.5"
+     stroke-width="2.4"
+     id="line123"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1494"
+     y1="245.5"
+     x2="1546"
+     y2="245.5"
+     stroke-width="2.4"
+     id="line124"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1520"
+     y1="70"
+     x2="1520"
+     y2="234.5"
+     stroke-width="2"
+     id="line125"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1520"
+     y1="245.5"
+     x2="1520"
+     y2="410"
+     stroke-width="2"
+     id="line126"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <circle
+     cx="1520"
+     cy="70"
+     r="4.5"
+     fill="#000000"
+     stroke="none"
+     id="circle126"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <circle
+     cx="1599.7212"
+     cy="70.739235"
+     r="4.5"
+     fill="#000000"
+     stroke="none"
+     id="circle126-1"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <circle
+     cx="1520"
+     cy="410"
+     r="4.5"
+     fill="#000000"
+     stroke="none"
+     id="circle127"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     x="1552"
+     y="236"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     text-anchor="start"
+     fill="#000000"
+     stroke="none"
+     id="text127"
+     style="stroke-linecap:round;stroke-linejoin:round">C3</text>
+  <line
+     x1="1494"
+     y1="794.5"
+     x2="1546"
+     y2="794.5"
+     stroke-width="2.4"
+     id="line127"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1494"
+     y1="805.5"
+     x2="1546"
+     y2="805.5"
+     stroke-width="2.4"
+     id="line128"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1520"
+     y1="630"
+     x2="1520"
+     y2="794.5"
+     stroke-width="2"
+     id="line129"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1520"
+     y1="805.5"
+     x2="1520"
+     y2="970"
+     stroke-width="2"
+     id="line130"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <circle
+     cx="1520"
+     cy="630"
+     r="4.5"
+     fill="#000000"
+     stroke="none"
+     id="circle130"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <circle
+     cx="1520"
+     cy="970"
+     r="4.5"
+     fill="#000000"
+     stroke="none"
+     id="circle131"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     x="1552"
+     y="796"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     text-anchor="start"
+     fill="#000000"
+     stroke="none"
+     id="text131"
+     style="stroke-linecap:round;stroke-linejoin:round">C4</text>
+  <line
+     x1="1600"
+     y1="70"
+     x2="1600"
+     y2="630"
+     stroke-width="2"
+     id="line131"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1660"
+     y1="410"
+     x2="1660"
+     y2="970"
+     stroke-width="2"
+     id="line132"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <circle
+     cx="1660"
+     cy="970"
+     r="4.5"
+     fill="#000000"
+     stroke="none"
+     id="circle133"
+     style="stroke-linecap:round;stroke-linejoin:round" />
+  <circle
+     cx="1560.5684"
+     cy="70.525726"
+     r="15"
+     fill="#ffffff"
+     stroke-width="2.4"
+     id="circle134"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="1549.5427"
+     y1="70.743492"
+     x2="1567.5427"
+     y2="70.743492"
+     stroke-width="2.4"
+     id="line134"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polygon
+     points="1651,65 1651,75 1660,70 "
+     fill="#000000"
+     stroke="none"
+     id="polygon134"
+     style="stroke-linecap:round;stroke-linejoin:round"
+     transform="translate(-86.219712,0.52572995)" />
+  <text
+     x="1560.4089"
+     y="48.05146"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="12px"
+     text-anchor="middle"
+     fill="#000000"
+     stroke="none"
+     id="text134"
+     style="stroke-linecap:round;stroke-linejoin:round">ДТ2</text>
+  <line
+     x1="1600.6005"
+     y1="69.987724"
+     x2="1750.6005"
+     y2="69.987724"
+     stroke-width="2"
+     id="line135"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <circle
+     cx="1750"
+     cy="70"
+     r="6"
+     fill="#ffffff"
+     stroke-width="2"
+     id="circle135"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     x="1766"
+     y="64"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     text-anchor="start"
+     fill="#000000"
+     stroke="none"
+     id="text135"
+     style="stroke-linecap:round;stroke-linejoin:round">LV+</text>
+  <line
+     x1="1660"
+     y1="970"
+     x2="1750"
+     y2="970"
+     stroke-width="2"
+     id="line136"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <circle
+     cx="1750"
+     cy="970"
+     r="6"
+     fill="#ffffff"
+     stroke-width="2"
+     id="circle136"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     x="1766"
+     y="996"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     text-anchor="start"
+     fill="#000000"
+     stroke="none"
+     id="text136"
+     style="stroke-linecap:round;stroke-linejoin:round">LV-</text>
+  <rect
+     x="233.6803"
+     y="545.31598"
+     width="260"
+     height="74"
+     fill="#ffffff"
+     stroke-width="2.4"
+     id="rect136"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     x="359.21158"
+     y="568.42999"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     text-anchor="middle"
+     fill="#000000"
+     stroke="none"
+     id="text137"
+     style="stroke-linecap:round;stroke-linejoin:round">TLP155 x4</text>
+  <text
+     x="359.73734"
+     y="587.53851"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="13px"
+     text-anchor="middle"
+     fill="#000000"
+     stroke="none"
+     id="text138"
+     style="stroke-linecap:round;stroke-linejoin:round">опто-изолир. драйвер</text>
+  <text
+     x="275.35767"
+     y="563.47595"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="11px"
+     text-anchor="middle"
+     fill="#000000"
+     stroke="none"
+     id="text139"
+     style="stroke-linecap:round;stroke-linejoin:round">DRV - ВВ</text>
+  <line
+     x1="362.9368"
+     y1="544.37909"
+     x2="362.9368"
+     y2="465.93021"
+     stroke-width="1.32774"
+     id="line139"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polygon
+     points="270,418 263,432 277,432 "
+     fill="#000000"
+     stroke="none"
+     id="polygon139"
+     style="stroke-linecap:round;stroke-linejoin:round"
+     transform="translate(92.936803,36.132327)" />
+  <line
+     x1="1366.7361"
+     y1="477.47177"
+     x2="1366.7361"
+     y2="374.3197"
+     stroke-width="1.52251"
+     id="line139-2"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polygon
+     points="270,418 263,432 277,432 "
+     fill="#000000"
+     stroke="none"
+     id="polygon139-77"
+     style="stroke-linecap:round;stroke-linejoin:round"
+     transform="matrix(1,0,0,1.3148956,1096.7361,-190.81965)" />
+  <rect
+     x="1336.4517"
+     y="477.97394"
+     width="213.101"
+     height="74.372162"
+     fill="#ffffff"
+     stroke-width="2.02784"
+     id="rect139"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     x="1442.5427"
+     y="500.49197"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="13px"
+     text-anchor="middle"
+     fill="#000000"
+     stroke="none"
+     id="text141"
+     style="stroke-linecap:round;stroke-linejoin:round">полумостовой драйвер х4</text>
+  <text
+     x="1430.6151"
+     y="531.11359"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="11px"
+     text-anchor="middle"
+     fill="#000000"
+     stroke="none"
+     id="text142"
+     style="stroke-linecap:round;stroke-linejoin:round">DRV - НВ</text>
+  <rect
+     x="700.48328"
+     y="527.50928"
+     width="260"
+     height="116"
+     fill="#ffffff"
+     stroke-width="2.4"
+     id="rect161"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     x="823.04834"
+     y="567.6134"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     text-anchor="middle"
+     fill="#000000"
+     stroke="none"
+     id="text162"
+     style="stroke-linecap:round;stroke-linejoin:round">CH32V303</text>
+  <text
+     x="364.33423"
+     y="776.64075"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     text-anchor="middle"
+     fill="#000000"
+     stroke="none"
+     id="text162-5"
+     style="stroke-linecap:round;stroke-linejoin:round"><tspan
+       sodipodi:role="line"
+       id="tspan193"
+       x="364.33423"
+       y="776.64075">Блок питания</tspan><tspan
+       sodipodi:role="line"
+       id="tspan194"
+       x="364.33423"
+       y="797.89075" /><tspan
+       sodipodi:role="line"
+       x="364.33423"
+       y="819.14075"
+       id="tspan195">40 - 60В =&gt; 10В =&gt; 3,3В</tspan></text>
+  <text
+     x="828.99628"
+     y="595.56134"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="13px"
+     text-anchor="middle"
+     fill="#000000"
+     stroke="none"
+     id="text163"
+     style="stroke-linecap:round;stroke-linejoin:round">ADC - ШИМ - CAN</text>
+  <text
+     x="507.91077"
+     y="570.3197"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="12px"
+     text-anchor="start"
+     fill="#000000"
+     stroke="none"
+     id="text164"
+     style="stroke-linecap:round;stroke-linejoin:round">ШИМ ВВ</text>
+  <text
+     x="1260.6949"
+     y="501.43463"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="12px"
+     text-anchor="start"
+     fill="#000000"
+     stroke="none"
+     id="text166"
+     style="stroke-linecap:round;stroke-linejoin:round">ШИМ НВ</text>
+  <line
+     x1="830.78748"
+     y1="651.99414"
+     x2="830.78748"
+     y2="711.99414"
+     stroke-width="2"
+     id="line166"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polygon
+     points="607,828 600,814 593,828 "
+     fill="#000000"
+     stroke="none"
+     id="polygon167"
+     style="stroke-linecap:round;stroke-linejoin:round"
+     transform="translate(230.66915,-170.26022)" />
+  <polygon
+     points="607,888 600,902 593,888 "
+     fill="#000000"
+     stroke="none"
+     id="polygon168"
+     style="stroke-linecap:round;stroke-linejoin:round"
+     transform="translate(230.78748,-176.00589)" />
+  <rect
+     x="700.78748"
+     y="723.99414"
+     width="260"
+     height="80"
+     fill="#ffffff"
+     stroke-width="2.4"
+     id="rect168"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     x="830.78748"
+     y="757.99414"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     text-anchor="middle"
+     fill="#000000"
+     stroke="none"
+     id="text168"
+     style="stroke-linecap:round;stroke-linejoin:round">Изолятор</text>
+  <text
+     x="830.78748"
+     y="779.99414"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="13px"
+     text-anchor="middle"
+     fill="#000000"
+     stroke="none"
+     id="text169"
+     style="stroke-linecap:round;stroke-linejoin:round">гальваническая развязка</text>
+  <line
+     x1="830.78748"
+     y1="815.99414"
+     x2="830.78748"
+     y2="871.99414"
+     stroke-width="2"
+     id="line169"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polygon
+     points="607,992 600,978 593,992 "
+     fill="#000000"
+     stroke="none"
+     id="polygon169"
+     style="stroke-linecap:round;stroke-linejoin:round"
+     transform="translate(230.78748,-176.00589)" />
+  <polygon
+     points="607,1048 600,1062 593,1048 "
+     fill="#000000"
+     stroke="none"
+     id="polygon170"
+     style="stroke-linecap:round;stroke-linejoin:round"
+     transform="translate(230.78748,-176.00589)" />
+  <rect
+     x="700.78748"
+     y="883.99414"
+     width="260"
+     height="80"
+     fill="#ffffff"
+     stroke-width="2.4"
+     id="rect170"
+     style="stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     x="830.78748"
+     y="917.99414"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="17px"
+     text-anchor="middle"
+     fill="#000000"
+     stroke="none"
+     id="text170"
+     style="stroke-linecap:round;stroke-linejoin:round">CAN</text>
+  <text
+     x="830.78748"
+     y="939.99414"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="13px"
+     text-anchor="middle"
+     fill="#000000"
+     stroke="none"
+     id="text171"
+     style="stroke-linecap:round;stroke-linejoin:round">TJA1040, 1 Мбит/с</text>
+  <metadata
+     id="metadata193">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>ДЦ-ДД-001 -- структурная схема</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <line
+     x1="699.79645"
+     y1="583.82819"
+     x2="505.07968"
+     y2="583.82819"
+     stroke-width="2.09181"
+     id="line139-9"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.4;stroke-dasharray:none" />
+  <polygon
+     points="277,432 270,418 263,432 "
+     fill="#000000"
+     stroke="none"
+     id="polygon139-5"
+     style="stroke-linecap:round;stroke-linejoin:round"
+     transform="matrix(0,-1,1.7203665,0,-224.80232,853.82819)" />
+  <polygon
+     points="270,418 263,432 277,432 "
+     fill="#000000"
+     stroke="none"
+     id="polygon139-5-1"
+     style="stroke-linecap:round;stroke-linejoin:round"
+     transform="matrix(0,1,-1.7203665,0,2055.9469,246.07644)" />
+  <line
+     x1="1253.8392"
+     y1="582.8551"
+     x2="961.48877"
+     y2="582.8551"
+     stroke-width="2.09181"
+     id="line139-9-3"
+     style="fill:none;stroke:#000000;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" />
+  <line
+     x1="1334.8877"
+     y1="516.13049"
+     x2="1253.9723"
+     y2="516.13049"
+     stroke-width="2.09181"
+     id="line139-9-2"
+     style="fill:none;stroke:#000000;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" />
+  <line
+     x1="1254.0145"
+     y1="516.92645"
+     x2="1254.0145"
+     y2="582.38147"
+     stroke-width="2.09181"
+     id="line139-9-34"
+     style="fill:none;stroke:#000000;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" />
+  <line
+     x1="1367.8345"
+     y1="553.63977"
+     x2="1367.8345"
+     y2="682.53973"
+     stroke-width="1.70194"
+     id="line139-3"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round" />
+  <polygon
+     points="270,418 263,432 277,432 "
+     fill="#000000"
+     stroke="none"
+     id="polygon139-1"
+     style="stroke-linecap:round;stroke-linejoin:round"
+     transform="matrix(1,0,0,-1.6431073,1097.8345,1388.7436)" />
+  <rect
+     x="231.98711"
+     y="725.14301"
+     width="258.95425"
+     height="240.07799"
+     fill="#ffffff"
+     stroke-width="3.44575"
+     id="rect161-8"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.4;stroke-dasharray:none" />
+</svg>
