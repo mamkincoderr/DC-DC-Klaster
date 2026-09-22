@@ -1,0 +1,312 @@
+.meas tran ib_achg avg i(v5) from 0.655513308m to 0.800000000m:
+        43.3345
+.meas tran ih_achg avg i(v1) from 0.655513308m to 0.800000000m:
+       -5.73427
+.meas tran ip_achg rms i(l2) from 0.655513308m to 0.800000000m:
+        6.87342
+.meas tran is_achg rms i(l3) from 0.655513308m to 0.800000000m:
+        25.6971
+.meas tran van_achg min v(a) from 0.655513308m to 0.800000000m:
+       -1.04891 (at Time=0.000749162)
+.meas tran vax_achg max v(a) from 0.655513308m to 0.800000000m:
+        361.042 (at Time=0.000669318)
+.meas tran vsn_achg min v(secwind) from 0.655513308m to 0.800000000m:
+       -1.10662 (at Time=0.000794659)
+.meas tran im2_achg rms (v(a)-v(m2#drain))/0.08 from 0.655513308m to 0.800000000m:
+        4.84435
+.meas tran pm2_achg avg v(a)*(v(a)-v(m2#drain))/0.08 from 0.655513308m to 0.800000000m:
+        5.40014
+.meas tran im6_achg rms (v(secwind)-v(m6#drain))/0.005 from 0.655513308m to 0.800000000m:
+        18.1563
+.meas tran pm6_achg avg v(secwind)*(v(secwind)-v(m6#drain))/0.005 from 0.655513308m to 0.800000000m:
+        2.94644
+.meas tran vl_achg avg v(lvbus) from 0.655513308m to 0.800000000m:
+        46.3454
+.meas tran vlp_achg pp v(lvbus) from 0.655513308m to 0.800000000m:
+        1.24177
+.meas tran ib_adis avg i(v5) from 1.450340136m to 1.600000000m:
+       -42.2296
+.meas tran ih_adis avg i(v1) from 1.450340136m to 1.600000000m:
+        5.19761
+.meas tran ip_adis rms i(l2) from 1.450340136m to 1.600000000m:
+        5.84834
+.meas tran is_adis rms i(l3) from 1.450340136m to 1.600000000m:
+        24.7114
+.meas tran van_adis min v(a) from 1.450340136m to 1.600000000m:
+      -0.982392 (at Time=0.00159804)
+.meas tran vax_adis max v(a) from 1.450340136m to 1.600000000m:
+        360.965 (at Time=0.00159464)
+.meas tran vsn_adis min v(secwind) from 1.450340136m to 1.600000000m:
+       -1.10055 (at Time=0.00158446)
+.meas tran im2_adis rms (v(a)-v(m2#drain))/0.08 from 1.450340136m to 1.600000000m:
+        4.13478
+.meas tran pm2_adis avg v(a)*(v(a)-v(m2#drain))/0.08 from 1.450340136m to 1.600000000m:
+        1.81489
+.meas tran im6_adis rms (v(secwind)-v(m6#drain))/0.005 from 1.450340136m to 1.600000000m:
+        17.4633
+.meas tran pm6_adis avg v(secwind)*(v(secwind)-v(m6#drain))/0.005 from 1.450340136m to 1.600000000m:
+        3.76932
+.meas tran vl_adis avg v(lvbus) from 1.450340136m to 1.600000000m:
+        45.6619
+.meas tran vlp_adis pp v(lvbus) from 1.450340136m to 1.600000000m:
+       0.519461
+.meas tran ib_aidl avg i(v5) from 2.252000000m to 2.400000000m:
+       0.148853
+.meas tran ih_aidl avg i(v1) from 2.252000000m to 2.400000000m:
+     -0.0330236
+.meas tran ip_aidl rms i(l2) from 2.252000000m to 2.400000000m:
+        1.25175
+.meas tran is_aidl rms i(l3) from 2.252000000m to 2.400000000m:
+        0.20565
+.meas tran van_aidl min v(a) from 2.252000000m to 2.400000000m:
+       -1.00678 (at Time=0.00234292)
+.meas tran vax_aidl max v(a) from 2.252000000m to 2.400000000m:
+        361.007 (at Time=0.00234492)
+.meas tran vsn_aidl min v(secwind) from 2.252000000m to 2.400000000m:
+      -0.945731 (at Time=0.00229889)
+.meas tran im2_aidl rms (v(a)-v(m2#drain))/0.08 from 2.252000000m to 2.400000000m:
+       0.901673
+.meas tran pm2_aidl avg v(a)*(v(a)-v(m2#drain))/0.08 from 2.252000000m to 2.400000000m:
+        1.68427
+.meas tran im6_aidl rms (v(secwind)-v(m6#drain))/0.005 from 2.252000000m to 2.400000000m:
+       0.114575
+.meas tran pm6_aidl avg v(secwind)*(v(secwind)-v(m6#drain))/0.005 from 2.252000000m to 2.400000000m:
+     0.00685516
+.meas tran vl_aidl avg v(lvbus) from 2.252000000m to 2.400000000m:
+        45.9995
+.meas tran vlp_aidl pp v(lvbus) from 2.252000000m to 2.400000000m:
+       0.114249
+.meas tran ib_bchg avg i(v5) from 3.052216749m to 3.200000000m:
+        33.9168
+.meas tran ih_bchg avg i(v1) from 3.052216749m to 3.200000000m:
+       -5.31251
+.meas tran ip_bchg rms i(l2) from 3.052216749m to 3.200000000m:
+          6.573
+.meas tran is_bchg rms i(l3) from 3.052216749m to 3.200000000m:
+        23.1786
+.meas tran van_bchg min v(a) from 3.052216749m to 3.200000000m:
+       -1.05572 (at Time=0.00314593)
+.meas tran vax_bchg max v(a) from 3.052216749m to 3.200000000m:
+        361.056 (at Time=0.0031213)
+.meas tran vsn_bchg min v(secwind) from 3.052216749m to 3.200000000m:
+       -1.19086 (at Time=0.00319504)
+.meas tran im2_bchg rms (v(a)-v(m2#drain))/0.08 from 3.052216749m to 3.200000000m:
+        4.58666
+.meas tran pm2_bchg avg v(a)*(v(a)-v(m2#drain))/0.08 from 3.052216749m to 3.200000000m:
+        6.10516
+.meas tran im6_bchg rms (v(secwind)-v(m6#drain))/0.005 from 3.052216749m to 3.200000000m:
+        16.2535
+.meas tran pm6_bchg avg v(secwind)*(v(secwind)-v(m6#drain))/0.005 from 3.052216749m to 3.200000000m:
+        2.57066
+.meas tran vl_bchg avg v(lvbus) from 3.052216749m to 3.200000000m:
+        57.2127
+.meas tran vlp_bchg pp v(lvbus) from 3.052216749m to 3.200000000m:
+         3.6815
+.meas tran ib_bdis avg i(v5) from 3.852380952m to 4.000000000m:
+       -33.1199
+.meas tran ih_bdis avg i(v1) from 3.852380952m to 4.000000000m:
+        4.89635
+.meas tran ip_bdis rms i(l2) from 3.852380952m to 4.000000000m:
+        5.34885
+.meas tran is_bdis rms i(l3) from 3.852380952m to 4.000000000m:
+        24.1912
+.meas tran van_bdis min v(a) from 3.852380952m to 4.000000000m:
+      -0.994518 (at Time=0.00391717)
+.meas tran vax_bdis max v(a) from 3.852380952m to 4.000000000m:
+        360.993 (at Time=0.00395764)
+.meas tran vsn_bdis min v(secwind) from 3.852380952m to 4.000000000m:
+       -1.17473 (at Time=0.003912)
+.meas tran im2_bdis rms (v(a)-v(m2#drain))/0.08 from 3.852380952m to 4.000000000m:
+        3.77896
+.meas tran pm2_bdis avg v(a)*(v(a)-v(m2#drain))/0.08 from 3.852380952m to 4.000000000m:
+        3.62994
+.meas tran im6_bdis rms (v(secwind)-v(m6#drain))/0.005 from 3.852380952m to 4.000000000m:
+         16.872
+.meas tran pm6_bdis avg v(secwind)*(v(secwind)-v(m6#drain))/0.005 from 3.852380952m to 4.000000000m:
+        9.42953
+.meas tran vl_bdis avg v(lvbus) from 3.852380952m to 4.000000000m:
+        56.7376
+.meas tran vlp_bdis pp v(lvbus) from 3.852380952m to 4.000000000m:
+       0.713923
+.meas tran ib_bidl avg i(v5) from 4.652000000m to 4.800000000m:
+      0.0627403
+.meas tran ih_bidl avg i(v1) from 4.652000000m to 4.800000000m:
+     -0.0247275
+.meas tran ip_bidl rms i(l2) from 4.652000000m to 4.800000000m:
+        1.26517
+.meas tran is_bidl rms i(l3) from 4.652000000m to 4.800000000m:
+       0.241193
+.meas tran van_bidl min v(a) from 4.652000000m to 4.800000000m:
+       -1.00809 (at Time=0.00473012)
+.meas tran vax_bidl max v(a) from 4.652000000m to 4.800000000m:
+        361.008 (at Time=0.00471212)
+.meas tran vsn_bidl min v(secwind) from 4.652000000m to 4.800000000m:
+      -0.947994 (at Time=0.00465409)
+.meas tran im2_bidl rms (v(a)-v(m2#drain))/0.08 from 4.652000000m to 4.800000000m:
+       0.912942
+.meas tran pm2_bidl avg v(a)*(v(a)-v(m2#drain))/0.08 from 4.652000000m to 4.800000000m:
+        1.70918
+.meas tran im6_bidl rms (v(secwind)-v(m6#drain))/0.005 from 4.652000000m to 4.800000000m:
+      0.0936663
+.meas tran pm6_bidl avg v(secwind)*(v(secwind)-v(m6#drain))/0.005 from 4.652000000m to 4.800000000m:
+      0.0100918
+.meas tran vl_bidl avg v(lvbus) from 4.652000000m to 4.800000000m:
+        56.9992
+.meas tran vlp_bidl pp v(lvbus) from 4.652000000m to 4.800000000m:
+      0.0857555
+.meas tran ib_cchg avg i(v5) from 5.454166667m to 5.600000000m:
+         43.105
+.meas tran ih_cchg avg i(v1) from 5.454166667m to 5.600000000m:
+       -4.83845
+.meas tran ip_cchg rms i(l2) from 5.454166667m to 5.600000000m:
+        6.45324
+.meas tran is_cchg rms i(l3) from 5.454166667m to 5.600000000m:
+        23.5183
+.meas tran van_cchg min v(a) from 5.454166667m to 5.600000000m:
+       -1.08339 (at Time=0.00552667)
+.meas tran vax_cchg max v(a) from 5.454166667m to 5.600000000m:
+        431.083 (at Time=0.00559688)
+.meas tran vsn_cchg min v(secwind) from 5.454166667m to 5.600000000m:
+       -1.08289 (at Time=0.00557904)
+.meas tran im2_cchg rms (v(a)-v(m2#drain))/0.08 from 5.454166667m to 5.600000000m:
+        4.52574
+.meas tran pm2_cchg avg v(a)*(v(a)-v(m2#drain))/0.08 from 5.454166667m to 5.600000000m:
+        11.7832
+.meas tran im6_cchg rms (v(secwind)-v(m6#drain))/0.005 from 5.454166667m to 5.600000000m:
+        17.3116
+.meas tran pm6_cchg avg v(secwind)*(v(secwind)-v(m6#drain))/0.005 from 5.454166667m to 5.600000000m:
+        7.47394
+.meas tran vl_cchg avg v(lvbus) from 5.454166667m to 5.600000000m:
+        46.3232
+.meas tran vlp_cchg pp v(lvbus) from 5.454166667m to 5.600000000m:
+        6.09047
+.meas tran ib_cdis avg i(v5) from 6.255855856m to 6.400000000m:
+       -40.8636
+.meas tran ih_cdis avg i(v1) from 6.255855856m to 6.400000000m:
+        4.17149
+.meas tran ip_cdis rms i(l2) from 6.255855856m to 6.400000000m:
+        5.37659
+.meas tran is_cdis rms i(l3) from 6.255855856m to 6.400000000m:
+        24.6308
+.meas tran van_cdis min v(a) from 6.255855856m to 6.400000000m:
+       -0.94432 (at Time=0.006391)
+.meas tran vax_cdis max v(a) from 6.255855856m to 6.400000000m:
+        430.982 (at Time=0.00639585)
+.meas tran vsn_cdis min v(secwind) from 6.255855856m to 6.400000000m:
+       -1.13549 (at Time=0.00628389)
+.meas tran im2_cdis rms (v(a)-v(m2#drain))/0.08 from 6.255855856m to 6.400000000m:
+        3.81217
+.meas tran pm2_cdis avg v(a)*(v(a)-v(m2#drain))/0.08 from 6.255855856m to 6.400000000m:
+        3.48478
+.meas tran im6_cdis rms (v(secwind)-v(m6#drain))/0.005 from 6.255855856m to 6.400000000m:
+        17.4125
+.meas tran pm6_cdis avg v(secwind)*(v(secwind)-v(m6#drain))/0.005 from 6.255855856m to 6.400000000m:
+        4.18872
+.meas tran vl_cdis avg v(lvbus) from 6.255855856m to 6.400000000m:
+        45.6827
+.meas tran vlp_cdis pp v(lvbus) from 6.255855856m to 6.400000000m:
+       0.812959
+.meas tran ib_cidl avg i(v5) from 7.052000000m to 7.200000000m:
+        20.1801
+.meas tran ih_cidl avg i(v1) from 7.052000000m to 7.200000000m:
+       -2.28071
+.meas tran ip_cidl rms i(l2) from 7.052000000m to 7.200000000m:
+         3.2361
+.meas tran is_cidl rms i(l3) from 7.052000000m to 7.200000000m:
+        11.1709
+.meas tran van_cidl min v(a) from 7.052000000m to 7.200000000m:
+       -1.04098 (at Time=0.00705644)
+.meas tran vax_cidl max v(a) from 7.052000000m to 7.200000000m:
+        431.046 (at Time=0.00714651)
+.meas tran vsn_cidl min v(secwind) from 7.052000000m to 7.200000000m:
+       -1.06744 (at Time=0.00709672)
+.meas tran im2_cidl rms (v(a)-v(m2#drain))/0.08 from 7.052000000m to 7.200000000m:
+        2.27258
+.meas tran pm2_cidl avg v(a)*(v(a)-v(m2#drain))/0.08 from 7.052000000m to 7.200000000m:
+        7.11483
+.meas tran im6_cidl rms (v(secwind)-v(m6#drain))/0.005 from 7.052000000m to 7.200000000m:
+        7.88901
+.meas tran pm6_cidl avg v(secwind)*(v(secwind)-v(m6#drain))/0.005 from 7.052000000m to 7.200000000m:
+        1.93095
+.meas tran vl_cidl avg v(lvbus) from 7.052000000m to 7.200000000m:
+        46.1614
+.meas tran vlp_cidl pp v(lvbus) from 7.052000000m to 7.200000000m:
+       0.242796
+.meas tran ib_dchg avg i(v5) from 7.852140078m to 8.000000000m:
+        33.8416
+.meas tran ih_dchg avg i(v1) from 7.852140078m to 8.000000000m:
+       -4.59675
+.meas tran ip_dchg rms i(l2) from 7.852140078m to 8.000000000m:
+        5.90075
+.meas tran is_dchg rms i(l3) from 7.852140078m to 8.000000000m:
+        20.3528
+.meas tran van_dchg min v(a) from 7.852140078m to 8.000000000m:
+       -1.05957 (at Time=0.00793241)
+.meas tran vax_dchg max v(a) from 7.852140078m to 8.000000000m:
+        431.062 (at Time=0.00786625)
+.meas tran vsn_dchg min v(secwind) from 7.852140078m to 8.000000000m:
+       -1.10548 (at Time=0.00799454)
+.meas tran im2_dchg rms (v(a)-v(m2#drain))/0.08 from 7.852140078m to 8.000000000m:
+        4.14273
+.meas tran pm2_dchg avg v(a)*(v(a)-v(m2#drain))/0.08 from 7.852140078m to 8.000000000m:
+        5.76333
+.meas tran im6_dchg rms (v(secwind)-v(m6#drain))/0.005 from 7.852140078m to 8.000000000m:
+        14.3779
+.meas tran pm6_dchg avg v(secwind)*(v(secwind)-v(m6#drain))/0.005 from 7.852140078m to 8.000000000m:
+        2.28554
+.meas tran vl_dchg avg v(lvbus) from 7.852140078m to 8.000000000m:
+        57.2663
+.meas tran vlp_dchg pp v(lvbus) from 7.852140078m to 8.000000000m:
+        1.14101
+.meas tran ib_ddis avg i(v5) from 8.652272727m to 8.800000000m:
+       -33.6479
+.meas tran ih_ddis avg i(v1) from 8.652272727m to 8.800000000m:
+        4.27759
+.meas tran ip_ddis rms i(l2) from 8.652272727m to 8.800000000m:
+        4.66016
+.meas tran is_ddis rms i(l3) from 8.652272727m to 8.800000000m:
+        20.5612
+.meas tran van_ddis min v(a) from 8.652272727m to 8.800000000m:
+      -0.999137 (at Time=0.00878606)
+.meas tran vax_ddis max v(a) from 8.652272727m to 8.800000000m:
+            431 (at Time=0.00867527)
+.meas tran vsn_ddis min v(secwind) from 8.652272727m to 8.800000000m:
+       -1.13006 (at Time=0.00872339)
+.meas tran im2_ddis rms (v(a)-v(m2#drain))/0.08 from 8.652272727m to 8.800000000m:
+        3.29443
+.meas tran pm2_ddis avg v(a)*(v(a)-v(m2#drain))/0.08 from 8.652272727m to 8.800000000m:
+        2.54102
+.meas tran im6_ddis rms (v(secwind)-v(m6#drain))/0.005 from 8.652272727m to 8.800000000m:
+        14.4729
+.meas tran pm6_ddis avg v(secwind)*(v(secwind)-v(m6#drain))/0.005 from 8.652272727m to 8.800000000m:
+        5.28574
+.meas tran vl_ddis avg v(lvbus) from 8.652272727m to 8.800000000m:
+        56.7323
+.meas tran vlp_ddis pp v(lvbus) from 8.652272727m to 8.800000000m:
+       0.437323
+.meas tran ib_didl avg i(v5) from 9.452000000m to 9.600000000m:
+        0.12072
+.meas tran ih_didl avg i(v1) from 9.452000000m to 9.600000000m:
+     -0.0296805
+.meas tran ip_didl rms i(l2) from 9.452000000m to 9.600000000m:
+        1.48826
+.meas tran is_didl rms i(l3) from 9.452000000m to 9.600000000m:
+        0.23861
+.meas tran van_didl min v(a) from 9.452000000m to 9.600000000m:
+       -1.02166 (at Time=0.00959412)
+.meas tran vax_didl max v(a) from 9.452000000m to 9.600000000m:
+        431.028 (at Time=0.00959615)
+.meas tran vsn_didl min v(secwind) from 9.452000000m to 9.600000000m:
+      -0.968984 (at Time=0.00959407)
+.meas tran im2_didl rms (v(a)-v(m2#drain))/0.08 from 9.452000000m to 9.600000000m:
+        1.05819
+.meas tran pm2_didl avg v(a)*(v(a)-v(m2#drain))/0.08 from 9.452000000m to 9.600000000m:
+        2.64966
+.meas tran im6_didl rms (v(secwind)-v(m6#drain))/0.005 from 9.452000000m to 9.600000000m:
+       0.122655
+.meas tran pm6_didl avg v(secwind)*(v(secwind)-v(m6#drain))/0.005 from 9.452000000m to 9.600000000m:
+     0.00785265
+.meas tran vl_didl avg v(lvbus) from 9.452000000m to 9.600000000m:
+             57
+.meas tran vlp_didl pp v(lvbus) from 9.452000000m to 9.600000000m:
+      0.0945073

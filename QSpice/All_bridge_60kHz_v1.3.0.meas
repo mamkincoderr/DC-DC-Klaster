@@ -1,0 +1,568 @@
+.meas tran ib01 avg i(v5) from 0.65m to 0.8m:
+        42.5696
+.meas tran ih01 avg i(v1) from 0.65m to 0.8m:
+       -5.69653
+.meas tran i101 rms i(l1) from 0.65m to 0.8m:
+        6.45253
+.meas tran i301 rms i(l3) from 0.65m to 0.8m:
+        24.8228
+.meas tran va_min01 min v(a) from 0.65m to 0.8m:
+        -1.0371 (at Time=0.000766893)
+.meas tran va_max01 max v(a) from 0.65m to 0.8m:
+        361.041 (at Time=0.000708557)
+.meas tran vs_min01 min v(secwind) from 0.65m to 0.8m:
+       -1.14771 (at Time=0.000718289)
+.meas tran ib02 avg i(v5) from 1.45m to 1.6m:
+        -44.719
+.meas tran ih02 avg i(v1) from 1.45m to 1.6m:
+        5.45569
+.meas tran i102 rms i(l1) from 1.45m to 1.6m:
+        6.49541
+.meas tran i302 rms i(l3) from 1.45m to 1.6m:
+        25.0507
+.meas tran va_min02 min v(a) from 1.45m to 1.6m:
+       -1.06086 (at Time=0.00155025)
+.meas tran va_max02 max v(a) from 1.45m to 1.6m:
+        361.065 (at Time=0.00157525)
+.meas tran vs_min02 min v(secwind) from 1.45m to 1.6m:
+       -1.12538 (at Time=0.00156529)
+.meas tran ib03 avg i(v5) from 2.25m to 2.4m:
+       -3.79864
+.meas tran ih03 avg i(v1) from 2.25m to 2.4m:
+       0.454658
+.meas tran i103 rms i(l1) from 2.25m to 2.4m:
+       0.624107
+.meas tran i303 rms i(l3) from 2.25m to 2.4m:
+        2.50766
+.meas tran va_min03 min v(a) from 2.25m to 2.4m:
+      -0.929451 (at Time=0.00235029)
+.meas tran va_max03 max v(a) from 2.25m to 2.4m:
+        360.939 (at Time=0.00225862)
+.meas tran vs_min03 min v(secwind) from 2.25m to 2.4m:
+       -1.03413 (at Time=0.00231627)
+.meas tran ib04 avg i(v5) from 3.05m to 3.2m:
+        30.7017
+.meas tran ih04 avg i(v1) from 3.05m to 3.2m:
+       -5.06047
+.meas tran i104 rms i(l1) from 3.05m to 3.2m:
+        5.55628
+.meas tran i304 rms i(l3) from 3.05m to 3.2m:
+        21.6182
+.meas tran va_min04 min v(a) from 3.05m to 3.2m:
+       -0.92734 (at Time=0.00315024)
+.meas tran va_max04 max v(a) from 3.05m to 3.2m:
+         360.94 (at Time=0.00315859)
+.meas tran vs_min04 min v(secwind) from 3.05m to 3.2m:
+       -1.17168 (at Time=0.00313547)
+.meas tran ib05 avg i(v5) from 3.85m to 4m:
+       -33.9782
+.meas tran ih05 avg i(v1) from 3.85m to 4m:
+        5.18246
+.meas tran i105 rms i(l1) from 3.85m to 4m:
+        5.63002
+.meas tran i305 rms i(l3) from 3.85m to 4m:
+        21.9618
+.meas tran va_min05 min v(a) from 3.85m to 4m:
+       -1.00109 (at Time=0.00393367)
+.meas tran va_max05 max v(a) from 3.85m to 4m:
+        361.006 (at Time=0.00397534)
+.meas tran vs_min05 min v(secwind) from 3.85m to 4m:
+      -0.984579 (at Time=0.0039165)
+.meas tran ib06 avg i(v5) from 4.65m to 4.8m:
+      -0.283199
+.meas tran ih06 avg i(v1) from 4.65m to 4.8m:
+     0.00270195
+.meas tran i106 rms i(l1) from 4.65m to 4.8m:
+         1.8976
+.meas tran i306 rms i(l3) from 4.65m to 4.8m:
+        7.30595
+.meas tran va_min06 min v(a) from 4.65m to 4.8m:
+       -1.02218 (at Time=0.00475034)
+.meas tran va_max06 max v(a) from 4.65m to 4.8m:
+        361.026 (at Time=0.00470869)
+.meas tran vs_min06 min v(secwind) from 4.65m to 4.8m:
+       -1.06496 (at Time=0.00475183)
+.meas tran ib07 avg i(v5) from 5.45m to 5.6m:
+        39.7785
+.meas tran ih07 avg i(v1) from 5.45m to 5.6m:
+       -4.42604
+.meas tran i107 rms i(l1) from 5.45m to 5.6m:
+        5.67417
+.meas tran i307 rms i(l3) from 5.45m to 5.6m:
+        21.6425
+.meas tran va_min07 min v(a) from 5.45m to 5.6m:
+      -0.779303 (at Time=0.00545033)
+.meas tran va_max07 max v(a) from 5.45m to 5.6m:
+        430.882 (at Time=0.00545866)
+.meas tran vs_min07 min v(secwind) from 5.45m to 5.6m:
+       -1.07685 (at Time=0.00545075)
+.meas tran ib08 avg i(v5) from 6.25m to 6.4m:
+       -40.4806
+.meas tran ih08 avg i(v1) from 6.25m to 6.4m:
+        4.15852
+.meas tran i108 rms i(l1) from 6.25m to 6.4m:
+        5.77914
+.meas tran i308 rms i(l3) from 6.25m to 6.4m:
+        22.1138
+.meas tran va_min08 min v(a) from 6.25m to 6.4m:
+       -1.07321 (at Time=0.00638373)
+.meas tran va_max08 max v(a) from 6.25m to 6.4m:
+        431.075 (at Time=0.00629207)
+.meas tran vs_min08 min v(secwind) from 6.25m to 6.4m:
+       -1.04044 (at Time=0.00639825)
+.meas tran ib09 avg i(v5) from 7.05m to 7.2m:
+      -0.758036
+.meas tran ih09 avg i(v1) from 7.05m to 7.2m:
+      0.0399333
+.meas tran i109 rms i(l1) from 7.05m to 7.2m:
+        1.88602
+.meas tran i309 rms i(l3) from 7.05m to 7.2m:
+        7.30092
+.meas tran va_min09 min v(a) from 7.05m to 7.2m:
+      -0.991939 (at Time=0.00705041)
+.meas tran va_max09 max v(a) from 7.05m to 7.2m:
+        430.997 (at Time=0.00710877)
+.meas tran vs_min09 min v(secwind) from 7.05m to 7.2m:
+       -1.10777 (at Time=0.00708201)
+.meas tran ib10 avg i(v5) from 7.85m to 8m:
+        34.1494
+.meas tran ih10 avg i(v1) from 7.85m to 8m:
+        -4.6724
+.meas tran i110 rms i(l1) from 7.85m to 8m:
+        4.98573
+.meas tran i310 rms i(l3) from 7.85m to 8m:
+        19.2278
+.meas tran va_min10 min v(a) from 7.85m to 8m:
+       -1.00488 (at Time=0.00795042)
+.meas tran va_max10 max v(a) from 7.85m to 8m:
+        431.007 (at Time=0.00787543)
+.meas tran vs_min10 min v(secwind) from 7.85m to 8m:
+       -1.13246 (at Time=0.00785127)
+.meas tran ib11 avg i(v5) from 8.65m to 8.8m:
+       -36.1957
+.meas tran ih11 avg i(v1) from 8.65m to 8.8m:
+        4.64755
+.meas tran i111 rms i(l1) from 8.65m to 8.8m:
+        5.07444
+.meas tran i311 rms i(l3) from 8.65m to 8.8m:
+        19.6537
+.meas tran va_min11 min v(a) from 8.65m to 8.8m:
+       -1.03858 (at Time=0.00868379)
+.meas tran va_max11 max v(a) from 8.65m to 8.8m:
+         431.04 (at Time=0.00877546)
+.meas tran vs_min11 min v(secwind) from 8.65m to 8.8m:
+       -1.11168 (at Time=0.00876607)
+.meas tran ib12 avg i(v5) from 9.45m to 9.6m:
+      -0.289506
+.meas tran ih12 avg i(v1) from 9.45m to 9.6m:
+      0.0131966
+.meas tran i112 rms i(l1) from 9.45m to 9.6m:
+       0.461588
+.meas tran i312 rms i(l3) from 9.45m to 9.6m:
+        1.85444
+.meas tran va_min12 min v(a) from 9.45m to 9.6m:
+      -0.971568 (at Time=0.00953382)
+.meas tran va_max12 max v(a) from 9.45m to 9.6m:
+        430.975 (at Time=0.00950882)
+.meas tran vs_min12 min v(secwind) from 9.45m to 9.6m:
+      -0.972897 (at Time=0.00945087)
+.meas tran s13_ir00 avg v(iref) from 10.05m to 10.1m:
+          -38.5
+.meas tran s13_ib00 avg i(v5) from 10.05m to 10.1m:
+       -34.6313
+.meas tran s13_ih00 avg i(v1) from 10.05m to 10.1m:
+        4.80698
+.meas tran s13_ph00 avg v(ph13) from 10.05m to 10.1m:
+       -24.8262
+.meas tran s13_xa00 avg v(xa) from 10.05m to 10.1m:
+              0
+.meas tran s13_xc00 avg v(xc) from 10.05m to 10.1m:
+              0
+.meas tran s13_va00 min v(a) from 10.05m to 10.1m:
+        -1.0247 (at Time=0.0100838)
+.meas tran s13_vs00 min v(secwind) from 10.05m to 10.1m:
+       -1.01747 (at Time=0.0100998)
+.meas tran s13_a100 avg v(alpha1) from 10.05m to 10.1m:
+              0
+.meas tran s13_a200 avg v(alpha2) from 10.05m to 10.1m:
+        24.0748
+.meas tran s13_ir01 avg v(iref) from 10.4474m to 10.4974m:
+       -30.5348
+.meas tran s13_ib01 avg i(v5) from 10.4474m to 10.4974m:
+       -33.4771
+.meas tran s13_ih01 avg i(v1) from 10.4474m to 10.4974m:
+        4.66731
+.meas tran s13_ph01 avg v(ph13) from 10.4474m to 10.4974m:
+       -23.5225
+.meas tran s13_xa01 avg v(xa) from 10.4474m to 10.4974m:
+              0
+.meas tran s13_xc01 avg v(xc) from 10.4474m to 10.4974m:
+              0
+.meas tran s13_va01 min v(a) from 10.4474m to 10.4974m:
+       -1.02177 (at Time=0.0104505)
+.meas tran s13_vs01 min v(secwind) from 10.4474m to 10.4974m:
+       -1.00546 (at Time=0.0104498)
+.meas tran s13_a101 avg v(alpha1) from 10.4474m to 10.4974m:
+              0
+.meas tran s13_a201 avg v(alpha2) from 10.4474m to 10.4974m:
+        24.7518
+.meas tran s13_ir02 avg v(iref) from 10.9149m to 10.9649m:
+       -20.5355
+.meas tran s13_ib02 avg i(v5) from 10.9149m to 10.9649m:
+       -23.1917
+.meas tran s13_ih02 avg i(v1) from 10.9149m to 10.9649m:
+         3.2536
+.meas tran s13_ph02 avg v(ph13) from 10.9149m to 10.9649m:
+       -17.0704
+.meas tran s13_xa02 avg v(xa) from 10.9149m to 10.9649m:
+              0
+.meas tran s13_xc02 avg v(xc) from 10.9149m to 10.9649m:
+              0
+.meas tran s13_va02 min v(a) from 10.9149m to 10.9649m:
+      -0.985144 (at Time=0.0109172)
+.meas tran s13_vs02 min v(secwind) from 10.9149m to 10.9649m:
+      -0.987635 (at Time=0.0109586)
+.meas tran s13_a102 avg v(alpha1) from 10.9149m to 10.9649m:
+              0
+.meas tran s13_a202 avg v(alpha2) from 10.9149m to 10.9649m:
+        24.9966
+.meas tran s13_ir03 avg v(iref) from 11.289m to 11.339m:
+       -12.5339
+.meas tran s13_ib03 avg i(v5) from 11.289m to 11.339m:
+       -15.4451
+.meas tran s13_ih03 avg i(v1) from 11.289m to 11.339m:
+        2.17453
+.meas tran s13_ph03 avg v(ph13) from 11.289m to 11.339m:
+       -11.5068
+.meas tran s13_xa03 avg v(xa) from 11.289m to 11.339m:
+              0
+.meas tran s13_xc03 avg v(xc) from 11.289m to 11.339m:
+              0
+.meas tran s13_va03 min v(a) from 11.289m to 11.339m:
+      -0.956722 (at Time=0.0113339)
+.meas tran s13_vs03 min v(secwind) from 11.289m to 11.339m:
+      -0.999574 (at Time=0.0112921)
+.meas tran s13_a103 avg v(alpha1) from 11.289m to 11.339m:
+              0
+.meas tran s13_a203 avg v(alpha2) from 11.289m to 11.339m:
+        27.1423
+.meas tran s13_ir04 avg v(iref) from 11.5695m to 11.6195m:
+       -6.53431
+.meas tran s13_ib04 avg i(v5) from 11.5695m to 11.6195m:
+       -9.48638
+.meas tran s13_ih04 avg i(v1) from 11.5695m to 11.6195m:
+        1.33918
+.meas tran s13_ph04 avg v(ph13) from 11.5695m to 11.6195m:
+       -7.59976
+.meas tran s13_xa04 avg v(xa) from 11.5695m to 11.6195m:
+              0
+.meas tran s13_xc04 avg v(xc) from 11.5695m to 11.6195m:
+              0
+.meas tran s13_va04 min v(a) from 11.5695m to 11.6195m:
+      -0.980313 (at Time=0.0116172)
+.meas tran s13_vs04 min v(secwind) from 11.5695m to 11.6195m:
+      -0.895009 (at Time=0.0115758)
+.meas tran s13_a104 avg v(alpha1) from 11.5695m to 11.6195m:
+              0
+.meas tran s13_a204 avg v(alpha2) from 11.5695m to 11.6195m:
+        35.1589
+.meas tran s13_ir05 avg v(iref) from 11.7097m to 11.7597m:
+       -3.53558
+.meas tran s13_ib05 avg i(v5) from 11.7097m to 11.7597m:
+       -7.57133
+.meas tran s13_ih05 avg i(v1) from 11.7097m to 11.7597m:
+        1.05955
+.meas tran s13_ph05 avg v(ph13) from 11.7097m to 11.7597m:
+       -5.14282
+.meas tran s13_xa05 avg v(xa) from 11.7097m to 11.7597m:
+              0
+.meas tran s13_xc05 avg v(xc) from 11.7097m to 11.7597m:
+              0
+.meas tran s13_va05 min v(a) from 11.7097m to 11.7597m:
+      -0.990894 (at Time=0.0117505)
+.meas tran s13_vs05 min v(secwind) from 11.7097m to 11.7597m:
+      -0.961784 (at Time=0.0117511)
+.meas tran s13_a105 avg v(alpha1) from 11.7097m to 11.7597m:
+              0
+.meas tran s13_a205 avg v(alpha2) from 11.7097m to 11.7597m:
+        40.1831
+.meas tran s13_ir06 avg v(iref) from 11.8032m to 11.8532m:
+       -1.53572
+.meas tran s13_ib06 avg i(v5) from 11.8032m to 11.8532m:
+       -5.18645
+.meas tran s13_ih06 avg i(v1) from 11.8032m to 11.8532m:
+       0.715537
+.meas tran s13_ph06 avg v(ph13) from 11.8032m to 11.8532m:
+       -3.42464
+.meas tran s13_xa06 avg v(xa) from 11.8032m to 11.8532m:
+              0
+.meas tran s13_xc06 avg v(xc) from 11.8032m to 11.8532m:
+              0
+.meas tran s13_va06 min v(a) from 11.8032m to 11.8532m:
+      -0.998916 (at Time=0.0118506)
+.meas tran s13_vs06 min v(secwind) from 11.8032m to 11.8532m:
+      -0.991567 (at Time=0.0118513)
+.meas tran s13_a106 avg v(alpha1) from 11.8032m to 11.8532m:
+              0
+.meas tran s13_a206 avg v(alpha2) from 11.8032m to 11.8532m:
+         43.733
+.meas tran s13_ir07 avg v(iref) from 11.85m to 11.9m:
+      -0.534722
+.meas tran s13_ib07 avg i(v5) from 11.85m to 11.9m:
+       -4.08189
+.meas tran s13_ih07 avg i(v1) from 11.85m to 11.9m:
+       0.552893
+.meas tran s13_ph07 avg v(ph13) from 11.85m to 11.9m:
+       -2.60931
+.meas tran s13_xa07 avg v(xa) from 11.85m to 11.9m:
+              0
+.meas tran s13_xc07 avg v(xc) from 11.85m to 11.9m:
+              0
+.meas tran s13_va07 min v(a) from 11.85m to 11.9m:
+       -1.00267 (at Time=0.0118839)
+.meas tran s13_vs07 min v(secwind) from 11.85m to 11.9m:
+      -0.998367 (at Time=0.0118847)
+.meas tran s13_a107 avg v(alpha1) from 11.85m to 11.9m:
+              0
+.meas tran s13_a207 avg v(alpha2) from 11.85m to 11.9m:
+        45.4219
+.meas tran s13_ir08 avg v(iref) from 11.8968m to 11.9468m:
+       0.466278
+.meas tran s13_ib08 avg i(v5) from 11.8968m to 11.9468m:
+       -3.01703
+.meas tran s13_ih08 avg i(v1) from 11.8968m to 11.9468m:
+       0.402052
+.meas tran s13_ph08 avg v(ph13) from 11.8968m to 11.9468m:
+       -1.81183
+.meas tran s13_xa08 avg v(xa) from 11.8968m to 11.9468m:
+              0
+.meas tran s13_xc08 avg v(xc) from 11.8968m to 11.9468m:
+              0
+.meas tran s13_va08 min v(a) from 11.8968m to 11.9468m:
+       -1.00592 (at Time=0.0119339)
+.meas tran s13_vs08 min v(secwind) from 11.8968m to 11.9468m:
+       -1.00862 (at Time=0.0119348)
+.meas tran s13_a108 avg v(alpha1) from 11.8968m to 11.9468m:
+              0
+.meas tran s13_a208 avg v(alpha2) from 11.8968m to 11.9468m:
+        47.0761
+.meas tran s13_ir09 avg v(iref) from 11.9903m to 12.0403m:
+        2.46614
+.meas tran s13_ib09 avg i(v5) from 11.9903m to 12.0403m:
+       -1.03593
+.meas tran s13_ih09 avg i(v1) from 11.9903m to 12.0403m:
+       0.114503
+.meas tran s13_ph09 avg v(ph13) from 11.9903m to 12.0403m:
+       -0.24126
+.meas tran s13_xa09 avg v(xa) from 11.9903m to 12.0403m:
+              0
+.meas tran s13_xc09 avg v(xc) from 11.9903m to 12.0403m:
+              0
+.meas tran s13_va09 min v(a) from 11.9903m to 12.0403m:
+       -1.01104 (at Time=0.0120339)
+.meas tran s13_vs09 min v(secwind) from 11.9903m to 12.0403m:
+       -1.02454 (at Time=0.0120349)
+.meas tran s13_a109 avg v(alpha1) from 11.9903m to 12.0403m:
+              0
+.meas tran s13_a209 avg v(alpha2) from 11.9903m to 12.0403m:
+        50.2603
+.meas tran s13_ir10 avg v(iref) from 12.1305m to 12.1805m:
+        5.46486
+.meas tran s13_ib10 avg i(v5) from 12.1305m to 12.1805m:
+        1.93864
+.meas tran s13_ih10 avg i(v1) from 12.1305m to 12.1805m:
+      -0.311862
+.meas tran s13_ph10 avg v(ph13) from 12.1305m to 12.1805m:
+        2.09252
+.meas tran s13_xa10 avg v(xa) from 12.1305m to 12.1805m:
+              0
+.meas tran s13_xc10 avg v(xc) from 12.1305m to 12.1805m:
+              0
+.meas tran s13_va10 min v(a) from 12.1305m to 12.1805m:
+      -0.999423 (at Time=0.0121339)
+.meas tran s13_vs10 min v(secwind) from 12.1305m to 12.1805m:
+       -1.05414 (at Time=0.0121683)
+.meas tran s13_a110 avg v(alpha1) from 12.1305m to 12.1805m:
+              0
+.meas tran s13_a210 avg v(alpha2) from 12.1305m to 12.1805m:
+        46.6755
+.meas tran s13_ir11 avg v(iref) from 12.411m to 12.461m:
+        11.4644
+.meas tran s13_ib11 avg i(v5) from 12.411m to 12.461m:
+        8.02462
+.meas tran s13_ih11 avg i(v1) from 12.411m to 12.461m:
+       -1.20004
+.meas tran s13_ph11 avg v(ph13) from 12.411m to 12.461m:
+        6.88152
+.meas tran s13_xa11 avg v(xa) from 12.411m to 12.461m:
+              0
+.meas tran s13_xc11 avg v(xc) from 12.411m to 12.461m:
+              0
+.meas tran s13_va11 min v(a) from 12.411m to 12.461m:
+      -0.969602 (at Time=0.0124172)
+.meas tran s13_vs11 min v(secwind) from 12.411m to 12.461m:
+       -1.08311 (at Time=0.0124516)
+.meas tran s13_a111 avg v(alpha1) from 12.411m to 12.461m:
+              0
+.meas tran s13_a211 avg v(alpha2) from 12.411m to 12.461m:
+        37.0795
+.meas tran s13_ir12 avg v(iref) from 12.7851m to 12.8351m:
+         19.466
+.meas tran s13_ib12 avg i(v5) from 12.7851m to 12.8351m:
+        14.8052
+.meas tran s13_ih12 avg i(v1) from 12.7851m to 12.8351m:
+       -2.20671
+.meas tran s13_ph12 avg v(ph13) from 12.7851m to 12.8351m:
+        12.3974
+.meas tran s13_xa12 avg v(xa) from 12.7851m to 12.8351m:
+              0
+.meas tran s13_xc12 avg v(xc) from 12.7851m to 12.8351m:
+              0
+.meas tran s13_va12 min v(a) from 12.7851m to 12.8351m:
+     -0.0140054 (at Time=0.0128006)
+.meas tran s13_vs12 min v(secwind) from 12.7851m to 12.8351m:
+       -1.10281 (at Time=0.012835)
+.meas tran s13_a112 avg v(alpha1) from 12.7851m to 12.8351m:
+              0
+.meas tran s13_a212 avg v(alpha2) from 12.7851m to 12.8351m:
+        26.0822
+.meas tran s13_ir13 avg v(iref) from 13.2526m to 13.3026m:
+        29.4653
+.meas tran s13_ib13 avg i(v5) from 13.2526m to 13.3026m:
+        25.9484
+.meas tran s13_ih13 avg i(v1) from 13.2526m to 13.3026m:
+       -3.87602
+.meas tran s13_ph13 avg v(ph13) from 13.2526m to 13.3026m:
+        19.9224
+.meas tran s13_xa13 avg v(xa) from 13.2526m to 13.3026m:
+              0
+.meas tran s13_xc13 avg v(xc) from 13.2526m to 13.3026m:
+              0
+.meas tran s13_va13 min v(a) from 13.2526m to 13.3026m:
+      -0.954522 (at Time=0.0133006)
+.meas tran s13_vs13 min v(secwind) from 13.2526m to 13.3026m:
+       -1.13642 (at Time=0.013302)
+.meas tran s13_a113 avg v(alpha1) from 13.2526m to 13.3026m:
+              0
+.meas tran s13_a213 avg v(alpha2) from 13.2526m to 13.3026m:
+        25.9089
+.meas tran s13_ir14 avg v(iref) from 13.65m to 13.7m:
+        37.9653
+.meas tran s13_ib14 avg i(v5) from 13.65m to 13.7m:
+        34.1617
+.meas tran s13_ih14 avg i(v1) from 13.65m to 13.7m:
+       -5.14232
+.meas tran s13_ph14 avg v(ph13) from 13.65m to 13.7m:
+        26.7768
+.meas tran s13_xa14 avg v(xa) from 13.65m to 13.7m:
+              0
+.meas tran s13_xc14 avg v(xc) from 13.65m to 13.7m:
+              0
+.meas tran s13_va14 min v(a) from 13.65m to 13.7m:
+      -0.995337 (at Time=0.0136839)
+.meas tran s13_vs14 min v(secwind) from 13.65m to 13.7m:
+       -1.15842 (at Time=0.0136523)
+.meas tran s13_a114 avg v(alpha1) from 13.65m to 13.7m:
+              0
+.meas tran s13_a214 avg v(alpha2) from 13.65m to 13.7m:
+         26.057
+.meas tran ovxa01 avg v(xa) from 0.65m to 0.8m:
+              0
+.meas tran ovxc01 avg v(xc) from 0.65m to 0.8m:
+              0
+.meas tran a1_01 avg v(alpha1) from 0.65m to 0.8m:
+     0.00242463
+.meas tran a2_01 avg v(alpha2) from 0.65m to 0.8m:
+              0
+.meas tran ovxa02 avg v(xa) from 1.45m to 1.6m:
+              0
+.meas tran ovxc02 avg v(xc) from 1.45m to 1.6m:
+              0
+.meas tran a1_02 avg v(alpha1) from 1.45m to 1.6m:
+      0.0387951
+.meas tran a2_02 avg v(alpha2) from 1.45m to 1.6m:
+              0
+.meas tran ovxa03 avg v(xa) from 2.25m to 2.4m:
+              0
+.meas tran ovxc03 avg v(xc) from 2.25m to 2.4m:
+              0
+.meas tran a1_03 avg v(alpha1) from 2.25m to 2.4m:
+        23.4031
+.meas tran a2_03 avg v(alpha2) from 2.25m to 2.4m:
+              0
+.meas tran ovxa04 avg v(xa) from 3.05m to 3.2m:
+              0
+.meas tran ovxc04 avg v(xc) from 3.05m to 3.2m:
+              0
+.meas tran a1_04 avg v(alpha1) from 3.05m to 3.2m:
+              0
+.meas tran a2_04 avg v(alpha2) from 3.05m to 3.2m:
+        34.7021
+.meas tran ovxa05 avg v(xa) from 3.85m to 4m:
+              0
+.meas tran ovxc05 avg v(xc) from 3.85m to 4m:
+              0
+.meas tran a1_05 avg v(alpha1) from 3.85m to 4m:
+              0
+.meas tran a2_05 avg v(alpha2) from 3.85m to 4m:
+        34.1923
+.meas tran ovxa06 avg v(xa) from 4.65m to 4.8m:
+              0
+.meas tran ovxc06 avg v(xc) from 4.65m to 4.8m:
+              0
+.meas tran a1_06 avg v(alpha1) from 4.65m to 4.8m:
+              0
+.meas tran a2_06 avg v(alpha2) from 4.65m to 4.8m:
+        68.8883
+.meas tran ovxa07 avg v(xa) from 5.45m to 5.6m:
+              0
+.meas tran ovxc07 avg v(xc) from 5.45m to 5.6m:
+              0
+.meas tran a1_07 avg v(alpha1) from 5.45m to 5.6m:
+        33.7621
+.meas tran a2_07 avg v(alpha2) from 5.45m to 5.6m:
+              0
+.meas tran ovxa08 avg v(xa) from 6.25m to 6.4m:
+              0
+.meas tran ovxc08 avg v(xc) from 6.25m to 6.4m:
+              0
+.meas tran a1_08 avg v(alpha1) from 6.25m to 6.4m:
+        35.5211
+.meas tran a2_08 avg v(alpha2) from 6.25m to 6.4m:
+              0
+.meas tran ovxa09 avg v(xa) from 7.05m to 7.2m:
+              0
+.meas tran ovxc09 avg v(xc) from 7.05m to 7.2m:
+              0
+.meas tran a1_09 avg v(alpha1) from 7.05m to 7.2m:
+        69.6572
+.meas tran a2_09 avg v(alpha2) from 7.05m to 7.2m:
+              0
+.meas tran ovxa10 avg v(xa) from 7.85m to 8m:
+              0
+.meas tran ovxc10 avg v(xc) from 7.85m to 8m:
+              0
+.meas tran a1_10 avg v(alpha1) from 7.85m to 8m:
+              0
+.meas tran a2_10 avg v(alpha2) from 7.85m to 8m:
+      0.0323113
+.meas tran ovxa11 avg v(xa) from 8.65m to 8.8m:
+              0
+.meas tran ovxc11 avg v(xc) from 8.65m to 8.8m:
+              0
+.meas tran a1_11 avg v(alpha1) from 8.65m to 8.8m:
+              0
+.meas tran a2_11 avg v(alpha2) from 8.65m to 8.8m:
+              0
+.meas tran ovxa12 avg v(xa) from 9.45m to 9.6m:
+              0
+.meas tran ovxc12 avg v(xc) from 9.45m to 9.6m:
+              0
+.meas tran a1_12 avg v(alpha1) from 9.45m to 9.6m:
+              0
+.meas tran a2_12 avg v(alpha2) from 9.45m to 9.6m:
+        20.5247
+.meas tran duty_hv avg v(ova) from 9.4m to 9.5m:
+       0.975942
+.meas tran duty_lv avg v(ovc) from 9.4m to 9.5m:
+       0.981963
