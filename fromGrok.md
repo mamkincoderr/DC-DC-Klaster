@@ -4,6 +4,39 @@
 
 ---
 
+## 2026-09-22 — PDF материалов (попытка загрузки в git)
+
+**Задача.** Положить в репозиторий оригинальные PDF TP4 / N87.
+
+**Что скачано**
+
+| Файл | Размер | Содержимое |
+|---|---|---|
+| `N87_TDK.pdf` | 437 КБ | TDK SIFERRIT N87, June 2025, 12 стр. |
+| `TDG_coretech.pdf` | 3,4 МБ | Каталог TDG/Coretech 2007, 55 стр. |
+| `TDG_TP4_TP4A.pdf` | 530 КБ | Вырезка: стр. 6–7 сводная таблица + 10–13 TP4 и TP4A |
+| `Ohama_TP4_xref.pdf` | 329 КБ | Вырезка Ohama 2025, кросс-референс TP4↔N87 |
+
+Источники скачивания:
+- https://www.tdk-electronics.tdk.com/download/528882/d6940b239127a8bab71b22168746021b/pdf-n87.pdf
+- http://www.coretech.com.ua/docs/coretech_mnzn_materials_tdg_%5B2007%5D.pdf
+- https://www.ohama-sj.co.jp/pdf/soft-ferrite2025.pdf
+
+**Почему не в git.** Коннектор GitHub в этой сессии принимает только текстовый `content` (валидный UTF-8). PDF — бинарь; прогнать его через Contents API из отсюда значит поломать файл. Те же PDF, что уже лежат в `PDF/` репо (ДШ ключей), коммитились с локальной машины.
+
+Файлы лежат в синхронной папке проекта `PDF_materials/`. Добавить в репо с клона:
+
+```
+cp PDF_materials/N87_TDK.pdf PDF_materials/TDG_TP4_TP4A.pdf PDF_materials/Ohama_TP4_xref.pdf PDF/
+git add PDF/N87_TDK.pdf PDF/TDG_TP4_TP4A.pdf PDF/Ohama_TP4_xref.pdf
+git commit -m "PDF материалов TP4 и N87"
+git push
+```
+
+Полный `TDG_coretech.pdf` (3,4 МБ) можно не класть — всё нужное по TP4/TP4A есть в вырезке.
+
+---
+
 ## 2026-09-22 — материал сердечника TP4 вместо N87
 
 **Задача.** ЭП и модель считали магнитопровод как N87. Реально будет TP4. Найти паспорт, положить в репо, зафиксировать следствие для расчёта.
